@@ -6,11 +6,8 @@
 main:
   - name: Home
     url: home
-    weight: 55
-  - name: Join-Us!
-    url: joinus
-    weight: 20
-  - name: Lab-Members
+    weight: 10
+  - name: Lab Members
     url: people
     weight: 30
   - name: Research
@@ -19,9 +16,12 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
   - name: Resources
     url: resource
     weight: 55
+  - name: Contact
+    url: contact
+    weight: 60
+  - name: Join Us!
+    url: joinus
+    weight: 70
