@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
-  font: native
+  theme_night: 
+  font: Minimal 
   font_size: L
 
 # SEO
@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -34,18 +34,18 @@ header:
     enable: true
     align: r
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Yu Lab. This work is licensed under GPL3.0'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -111,6 +111,7 @@ extensions:
 
 # Citation style
 
-publications:
-  date_format: January 2006
-  citation_style: apa
+# publications:
+#   date_format: January 2006
+#   citation_style: apa
+

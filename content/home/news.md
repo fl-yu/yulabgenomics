@@ -5,20 +5,37 @@ headless: true
 weight: 20
 
 title: Latest News
-subtitle:
+subtitle: Latest News
 
 content:
-  count: 5
+  count: 2
   filters:
-    author: ''
+    author: 'aaa'
     category: ''
     exclude_featured: false
     publication_type: ''
     tag: ''
-  offset: 0
+  offset: -1
   order: desc
   page_type: post
 design:
   view: 3
   columns: '1'
 ---
+
+### 12/09/2022 
+We are excited that the Yu lab will be open in April 2023.
+
+{{% cta cta_link="./news/" cta_text="previous News →" %}}
+<!-- 
+### 12/09/2022 
+We are excited that the Yu lab will be open in April 2023.
+### 12/09/2022 
+We are excited that the Yu lab will be open in April 2023.
+### 12/09/2022 
+We are excited that the Yu lab will be open in April 2023.
+### 12/09/2022 
+We are excited that the Yu lab will be open in April 2023.
+[previous News]()
+
+-->

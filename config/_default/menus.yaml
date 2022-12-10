@@ -5,13 +5,13 @@
 
 main:
   - name: Home
-    url: home
+    url: /#home
     weight: 10
   - name: Lab Members
     url: people
     weight: 30
   - name: Research
-    url: event
+    url: research
     weight: 40
   - name: Publications
     url: publication
@@ -19,9 +19,9 @@ main:
   - name: Resources
     url: resource
     weight: 55
-  - name: Contact
-    url: contact
-    weight: 60
   - name: Join Us!
     url: joinus
+    weight: 60
+  - name: Contact
+    url: contact
     weight: 70

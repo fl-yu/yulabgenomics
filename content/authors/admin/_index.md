@@ -1,55 +1,73 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Fulong Yu Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Guangzhou National Laboratory 
+    url: 'xxxxx'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include functional genomics and bioinformatics.
 
 interests:
+  - Functional Genomics
+  - Single Cell Genomics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Bioinformatics
+      institution: Harbin Medical University
+      year: 2015 - 2018
+    - course: Instructor
+      institution: Wenzhou Medical University
+      year: 2018 - 2019
+    - course: Research Fellow
+      institution: Dana Farber Cancer Institute / Harvard Medical School
+      year: 2020
+    - course: Research Fellow
+      institution: Broad Institute / Boston Children's hospital / Harvard Medical School
+      year: 2020-
+
+works:
+  courses:
+    - course: PhD in Biomedical Engineering
+      institution: Harbin Medical University
+      year: 2015 - 2018
+    - course: Instructor
+      institution: Wenzhou Medical University
+      year: 2018 - 2019
+    - course: Research Fellow
+      institution: Dana Farber Cancer Institute / Harvard Medical School
+      year: 2020
+    - course: Research Fellow
+      institution: Broad Institute / Boston Children's hospital / Harvard Medical School
+      year: 2020-
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:test@example.org'
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/GeorgeCushen
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +83,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PI
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a Postdocteral Research Scientist at Harvard Medical School. My research interests are mainly in bioinformatics, single-cell genomics, deep learning, and human (epi)genetics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I completed my Ph.D. of Bioinformatics from Harbin Medical University (2018). In early 2020, I joined in Guocheng Yuan lab at Dana-Farber Cancer Institute and Vijay Sankaran lab at Boston Children’s Hospital/Broad Institute as a research fellow, repectively, where I worked on algorithm and tool development in terms of single-cell genomics and human genetics.
