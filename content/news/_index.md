@@ -5,7 +5,8 @@ date: "2022-12-09T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
-
+### 12/20/2022 
+Our MECOM regulatory network paper was published in Nature Immunology!
 ### 12/09/2022 
 We are excited that the Yu lab will be open in April 2023.
 

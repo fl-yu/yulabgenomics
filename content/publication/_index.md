@@ -1,7 +1,7 @@
 ---
 title: "Publications"  # Add a page title.
 summary: "Hello!"  # Add a page description.
-date: "2022-12-09T00:00:00Z"  # Add today's date.
+date: "2022-12-20T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
@@ -9,11 +9,11 @@ type: "widget_page"  # Page type is a Widget Page
 
 ### __**Selected publications**__  
 \# denotes co-first author and * denotes (co-)corresponding author. An up-to-date list of all publications is available on [Google Scholar](https://scholar.google.com/citations?user=sslV11MAAAAJ).
-<!-- Major Publications (A Li Lab member is the ^(co-)first or *(co-)corresponding author) -->
+<!-- Major Publications (A Yu Lab member is the ^(co-)first or *(co-)corresponding author) -->
 ##### 2022
-[*A genetic disorder reveals a hematopoietic stem cell regulatory network co-opted in leukemia.*]()  
+[*A genetic disorder reveals a hematopoietic stem cell regulatory network co-opted in leukemia.*](https://www.nature.com/articles/s41590-022-01370-4)  
 Voit, R.#, Tao, L.#, **<ins>Yu, F.#</ins>**, Cato, L., Cohen, B., Liao, X., Claudia, F., Nandakumar, S., Wahlster, L., Kristian, T., Regev, A.\*, and Sankaran, V.\*  To appear in *Nature Immunology*  
-[[<ins>PDF</ins>]](), [[<ins>Github</ins>]](https://github.com/sankaranlab/mecom_var)  
+[[<ins>PDF</ins>]](), [[<ins>Github</ins>]](https://github.com/sankaranlab/mecom_var), [[<ins>Data</ins>]](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175521), [[<ins>Highlight in BioArt</ins>]](https://mp.weixin.qq.com/s/bfSg24t-HAcoA8rUhHGcfg)  
 [*Variant to function mapping at single-cell resolution through network propagation.*](https://www.nature.com/articles/s41587-022-01341-y)  
 **<u>Yu, F.</u>**, Cato L., D., Weng, C., Liggett L., A., Jeon, S., Xu, K., Chiang, C., Wiemels J., L., Weissman J., S., , Smith A. J., and Sankaran V., G.\* *Nature Biotechnology*  
 [[<ins>PDF</ins>]](https://www.nature.com/articles/s41587-022-01341-y), [[<ins>Github</ins>]](https://github.com/sankaranlab/SCAVENGE), [[<ins>Highlight in Nature Genetics</ins>]](https://www.nature.com/articles/s41588-022-01136-6), [[<ins>Highlight in NYSCF</ins>]](https://nyscf.org/resources/meet-scavenge-a-search-engine-to-uncover-how-genetic-variations-affect-our-cells/#sq_h3qn23vs5o), [[<ins>Highlight in Broad Roundup</ins>]](https://www.broadinstitute.org/news/research-roundup-june-13-2022), [[<ins>Highlight in BioArt</ins>]](https://mp.weixin.qq.com/s/0HNjEfdi5Lyqd_w7pVySRw)
