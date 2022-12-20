@@ -22,6 +22,8 @@ design:
   view: 3
   columns: '1'
 ---
+### 12/20/2022 
+Our MECOM regulatory network paper was published in Nature Immunology!
 
 ### 12/09/2022 
 We are excited that the Yu lab will be open in April 2023.
