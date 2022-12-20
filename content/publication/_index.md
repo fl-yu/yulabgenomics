@@ -12,7 +12,7 @@ type: "widget_page"  # Page type is a Widget Page
 <!-- Major Publications (A Yu Lab member is the ^(co-)first or *(co-)corresponding author) -->
 ##### 2022
 [*A genetic disorder reveals a hematopoietic stem cell regulatory network co-opted in leukemia.*](https://www.nature.com/articles/s41590-022-01370-4)  
-Voit, R.#, Tao, L.#, **<ins>Yu, F.#</ins>**, Cato, L., Cohen, B., Liao, X., Claudia, F., Nandakumar, S., Wahlster, L., Kristian, T., Regev, A.\*, and Sankaran, V.\*  To appear in *Nature Immunology*  
+Voit, R.#, Tao, L.#, **<ins>Yu, F.#</ins>**, Cato, L., Cohen, B., Liao, X., Claudia, F., Nandakumar, S., Wahlster, L., Kristian, T., Regev, A.\*, and Sankaran, V.\* *Nature Immunology*  
 [[<ins>PDF</ins>]](), [[<ins>Github</ins>]](https://github.com/sankaranlab/mecom_var), [[<ins>Data</ins>]](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175521), [[<ins>Highlight in BioArt</ins>]](https://mp.weixin.qq.com/s/bfSg24t-HAcoA8rUhHGcfg)  
 [*Variant to function mapping at single-cell resolution through network propagation.*](https://www.nature.com/articles/s41587-022-01341-y)  
 **<u>Yu, F.</u>**, Cato L., D., Weng, C., Liggett L., A., Jeon, S., Xu, K., Chiang, C., Wiemels J., L., Weissman J., S., , Smith A. J., and Sankaran V., G.\* *Nature Biotechnology*  
