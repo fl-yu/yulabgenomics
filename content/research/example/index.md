@@ -70,6 +70,8 @@ The long-term goals of our lab:
 2. With close collaboration with experimental biologists, we will be committed to uncovering the fundamental principles in gene regulatory mechanisms and eventually developing effective treatments for various human diseases.
 
 <img title="a title" alt="Alt text" src="https://github.com/fl-yu/CUT-RUNTools-2.0/blob/master/images/sample.result.gata1.png">
+![aaa](https://github.com/fl-yu/CUT-RUNTools-2.0/blob/master/images/sample.result.gata1.png)
+![Alt text](https://github.com/fl-yu/CUT-RUNTools-2.0/blob/master/images/sample.result.gata1.png "a title")
 Our current research will primarily focus on the intersections of population genetics, single cell genomics, and machine learning areas. 
 
 - Functional interpretation of genetic causal variants at different levels including individual genomic loci, cellular context, target genes, and programs.   
