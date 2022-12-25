@@ -65,15 +65,14 @@ Further event details, including page elements such as image galleries, can be a
 
 
 # Our research interests
-Our lab will primarliy work on the intersections of population genetics, single cell genomics and meachine learning. 
-- Functional interpreation of genetic variants  
-Although the scale of this challenge is daunting, better methods for functional variant interpretation will have transformative consequences for disease diagnosis, risk prediction, and the development of new therapies. 
-dissect variant mechanisms across a range of human cell types and environments.
-These approaches are also increasingly being deployed in clinical settings
+The long-term goals of our lab:
+1. Developing computational methods and tools to overcome the challenges for analyzing, integrating, and interpreting a variety of genomics data. 
+2. With close colabaration with experimental biologists, we will be committed to understand and uncover the fundamental principles in gene regulatory mechanisms and eventually develop effective treatment for various human diseases.
 
-- Fine-grained regulatory circuits inference using single cell genomics 
+Our current research will primarliy focus on the intersections of population genetics, single cell genomics, and meachine learning areas. 
 
-
-- Machine learning for cancer genomics
+- Functional interpreation of genetic causal variants at different levels including individual genomic loci, cellular context, target genes, and programs.   
+- Dessect the fine-grained regulatory circuits and how they are pertubed in different diseases 
+- Machine learning models for disease diagnosis, risk prediction, and the development of new therapies
 
 
