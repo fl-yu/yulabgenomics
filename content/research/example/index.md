@@ -69,6 +69,7 @@ The long-term goals of our lab:
 1. Developing computational methods and tools to overcome the challenges for analyzing, integrating, and interpreting a variety of genomics data. 
 2. With close colabaration with experimental biologists, we will be committed to understand and uncover the fundamental principles in gene regulatory mechanisms and eventually develop effective treatment for various human diseases.
 
+<img title="a title" alt="Alt text" src="https://github.com/fl-yu/yulabgenomics/blob/main/images/tn.png">
 Our current research will primarliy focus on the intersections of population genetics, single cell genomics, and meachine learning areas. 
 
 - Functional interpreation of genetic causal variants at different levels including individual genomic loci, cellular context, target genes, and programs.   
