@@ -76,7 +76,7 @@ The long-term goals of our lab:
 ![bbb](welcome3.jpg)
 
 aa
-<img src="featured.jpg"
+<img src="welcome3.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
