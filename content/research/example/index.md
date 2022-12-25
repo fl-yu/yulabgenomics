@@ -88,4 +88,5 @@ Our current research primarily focus on the intersections of population genetics
 - Machine learning models for disease diagnosis, risk prediction, and the development of new therapies
 
 
-{{% staticref "files/mecom paper.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
+[aaa](ddfsd), {{% staticref "files/mecom paper.pdf" "newtab" %}}[Download the PDF]{{% /staticref %}}, 
+[aaa](ddfsd), 
