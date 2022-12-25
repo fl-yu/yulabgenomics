@@ -73,6 +73,8 @@ The long-term goals of our lab:
 
 ![aaa](https://github.com/fl-yu/CUT-RUNTools-2.0/blob/master/images/sample.result.gata1.png)
 
+![bbb](welcome3.jpg)
+
 aa
 <img src="featured.jpg"
      alt="Markdown Monster icon"
