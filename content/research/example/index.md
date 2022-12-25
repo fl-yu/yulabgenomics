@@ -74,12 +74,12 @@ The long-term goals of our lab:
 ![aaa](https://github.com/fl-yu/CUT-RUNTools-2.0/blob/master/images/sample.result.gata1.png)
 
 aa
-<img src="https://github.com/fl-yu/CUT-RUNTools-2.0/blob/master/images/sample.result.gata1.png"
+<img src="featured.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-     
-Our current research will primarily focus on the intersections of population genetics, single cell genomics, and machine learning areas. 
+../../img/portrait.jpg
+Our current research primarily focus on the intersections of population genetics, single cell genomics, and machine learning areas. 
 
 - Functional interpretation of genetic causal variants at different levels including individual genomic loci, cellular context, target genes, and programs.   
 - Dissect the fine-grained regulatory circuits and how they are perturbed in different diseases 
