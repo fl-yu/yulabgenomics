@@ -86,3 +86,6 @@ Our current research primarily focus on the intersections of population genetics
 - Functional interpretation of genetic causal variants at different levels including individual genomic loci, cellular context, target genes, and programs.   
 - Dissect the fine-grained regulatory circuits and how they are perturbed in different diseases 
 - Machine learning models for disease diagnosis, risk prediction, and the development of new therapies
+
+
+{{% staticref "files/mecom paper.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
