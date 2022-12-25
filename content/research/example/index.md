@@ -66,14 +66,12 @@ Further event details, including page elements such as image galleries, can be a
 
 # Our research interests
 The long-term goals of our lab:
-1. Developing computational methods and tools to overcome the challenges for analyzing, integrating, and interpreting a variety of genomics data. 
-2. With close colabaration with experimental biologists, we will be committed to understand and uncover the fundamental principles in gene regulatory mechanisms and eventually develop effective treatment for various human diseases.
+1. Developing computational methods and tools to overcome the challenges of analyzing, integrating, and interpreting a variety of genomics data. 
+2. With close collaboration with experimental biologists, we will be committed to uncovering the fundamental principles in gene regulatory mechanisms and eventually developing effective treatments for various human diseases.
 
-<img title="a title" alt="Alt text" src="https://github.com/fl-yu/yulabgenomics/blob/main/images/tn.png">
-Our current research will primarliy focus on the intersections of population genetics, single cell genomics, and meachine learning areas. 
+<img title="a title" alt="Alt text" src="https://github.com/fl-yu/CUT-RUNTools-2.0/blob/master/images/sample.result.gata1.png">
+Our current research will primarily focus on the intersections of population genetics, single cell genomics, and machine learning areas. 
 
-- Functional interpreation of genetic causal variants at different levels including individual genomic loci, cellular context, target genes, and programs.   
-- Dessect the fine-grained regulatory circuits and how they are pertubed in different diseases 
+- Functional interpretation of genetic causal variants at different levels including individual genomic loci, cellular context, target genes, and programs.   
+- Dissect the fine-grained regulatory circuits and how they are perturbed in different diseases 
 - Machine learning models for disease diagnosis, risk prediction, and the development of new therapies
-
-
