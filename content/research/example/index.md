@@ -68,6 +68,7 @@ Further event details, including page elements such as image galleries, can be a
 ## The long-term goals of our lab:
 1. Developing computational methods and tools to overcome the challenges of analyzing, integrating, and interpreting a variety of genomics data. 
 2. With close collaboration with experimental biologists, we will be committed to uncovering the fundamental principles in gene regulatory mechanisms and eventually developing effective treatments for various human diseases.
+<br> </br>
 
 ## Our current research primarily focus on the intersections of population genetics, single cell genomics, and machine learning areas. 
 
