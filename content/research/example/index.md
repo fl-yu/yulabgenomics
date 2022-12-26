@@ -79,4 +79,6 @@ Further event details, including page elements such as image galleries, can be a
 
 
 {{% staticref "files/mecom paper.pdf" "newtab" %}}[Download the PDF]{{% /staticref %}}, 
+
+[[<ins>PDF</ins>]](9.pdf)
 [aaa](ddfsd), 
