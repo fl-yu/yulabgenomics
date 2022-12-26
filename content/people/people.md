@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Meet the Team
-subtitle: “Everything is theoretically impossible until it is done.” – Robert A. Heinlein 
+subtitle: “The art and science of asking questions is the source of all knowledge.” – Thomas Berger 
 
 content:
   # Choose which groups/teams of users to display.
