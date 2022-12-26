@@ -13,10 +13,10 @@ type: "widget_page"  # Page type is a Widget Page
 [广州实验室博士后招聘](http://www.gaoxiaojob.com/zhaopin/zhuanti/gzzsyxyjkgdsys2020/page16.html)  
 [广州实验室人才招聘](http://www.gaoxiaojob.com/announcement/detail/17935.html)  
 
-We encourage internal/external collabaration and recruit talents with diverse expertise.
+We encourage internal/external collaboration and recruit talents with diverse expertise.
 Candidates with one of the following backgrounds are strongly encouraged to apply:
 1. Single cell genomics, Spatial genomics  
-2. GWAS, Bio-stat  
+2. GWAS, Biostatistics  
 3. Functional epigenetics, High-throughput screen, Immunology  
 4. Machine learning, AI  
 
