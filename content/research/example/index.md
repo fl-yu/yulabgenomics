@@ -77,8 +77,3 @@ Further event details, including page elements such as image galleries, can be a
 - Dissect the fine-grained regulatory circuits and how they are perturbed in different diseases 
 - Machine learning models for disease diagnosis, risk prediction, and the development of new therapies
 
-
-{{% staticref "files/mecom paper.pdf" "newtab" %}}[Download the PDF]{{% /staticref %}}, 
-
-[[<ins>PDF</ins>]](9.pdf)
-[aaa](ddfsd), 
