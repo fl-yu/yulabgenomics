@@ -65,28 +65,17 @@ Further event details, including page elements such as image galleries, can be a
 
 
 # Our research interests
-The long-term goals of our lab:
+## The long-term goals of our lab:
 1. Developing computational methods and tools to overcome the challenges of analyzing, integrating, and interpreting a variety of genomics data. 
 2. With close collaboration with experimental biologists, we will be committed to uncovering the fundamental principles in gene regulatory mechanisms and eventually developing effective treatments for various human diseases.
 
-<img title="a title" alt="Alt text" src="https://github.com/fl-yu/CUT-RUNTools-2.0/blob/master/images/sample.result.gata1.png">
+## Our current research primarily focus on the intersections of population genetics, single cell genomics, and machine learning areas. 
 
-![aaa](https://github.com/fl-yu/CUT-RUNTools-2.0/blob/master/images/sample.result.gata1.png)
-
-![bbb](welcome3.jpg)
-
-aa
-<img src="welcome3.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
-../../img/portrait.jpg
-Our current research primarily focus on the intersections of population genetics, single cell genomics, and machine learning areas. 
-
-- Functional interpretation of genetic causal variants at different levels including individual genomic loci, cellular context, target genes, and programs.   
+- Functional interpretation of genetic causal variants at different levels including individual genomic loci, cellular context, target genes, and programs.
+![v2g](v2g.jpg)   
 - Dissect the fine-grained regulatory circuits and how they are perturbed in different diseases 
 - Machine learning models for disease diagnosis, risk prediction, and the development of new therapies
 
 
-[aaa](ddfsd), {{% staticref "files/mecom paper.pdf" "newtab" %}}[Download the PDF]{{% /staticref %}}, 
+{{% staticref "files/mecom paper.pdf" "newtab" %}}[Download the PDF]{{% /staticref %}}, 
 [aaa](ddfsd), 
