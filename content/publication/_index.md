@@ -18,7 +18,7 @@ Voit, R.#, Tao, L.#, **<ins>Yu, F.#</ins>**, Cato, L., Cohen, B., Liao, X., Clau
 
 [*Variant to function mapping at single-cell resolution through network propagation.*](https://www.nature.com/articles/s41587-022-01341-y)  
 **<u>Yu, F.</u>**, Cato L., D., Weng, C., Liggett L., A., Jeon, S., Xu, K., Chiang, C., Wiemels J., L., Weissman J., S., , Smith A. J., and Sankaran V., G.\* ***Nature Biotechnology***  
-[[<ins>Github</ins>]](https://github.com/sankaranlab/SCAVENGE), [[<ins>Highlight by Nature Genetics</ins>]](https://www.nature.com/articles/s41588-022-01136-6), [[<ins>Highlight by New York Stem Cell Foundation</ins>]](https://nyscf.org/resources/meet-scavenge-a-search-engine-to-uncover-how-genetic-variations-affect-our-cells/#sq_h3qn23vs5o), [[<ins>Highlight by Broad Institute</ins>]](https://www.broadinstitute.org/news/research-roundup-june-13-2022), [[<ins>Highlight by BioArt</ins>]](https://mp.weixin.qq.com/s/0HNjEfdi5Lyqd_w7pVySRw)
+[[<ins>Github</ins>]](https://github.com/sankaranlab/SCAVENGE), [[<ins>Highlight by Nature Genetics</ins>]](https://www.nature.com/articles/s41588-022-01136-6), [[<ins>Highlight by New York Stem Cell Foundation</ins>]](https://nyscf.org/resources/meet-scavenge-a-search-engine-to-uncover-how-genetic-variations-affect-our-cells/#sq_h3qn23vs5o), [[<ins>Highlight by Broad Institute</ins>]](https://www.broadinstitute.org/news/research-roundup-june-13-2022), [[<ins>Highlight by Turingene</ins>]](https://mp.weixin.qq.com/s/RN39JurpmiaSWFIMEW6RFg), [[<ins>Highlight by BioArt</ins>]](https://mp.weixin.qq.com/s/0HNjEfdi5Lyqd_w7pVySRw)
 {{% staticref "files/8.pdf" "newtab" %}}[PDF]{{% /staticref %}}
 
 ##### 2021
