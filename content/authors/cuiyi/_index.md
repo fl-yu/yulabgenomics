@@ -1,6 +1,6 @@
 ---
 # Display name
-title: cuiyi
+title: Cuiyi Yang
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Lab manager
+role: Lab Manager
 
 # # Organizations/Affiliations
 # organizations:
