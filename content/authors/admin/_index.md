@@ -88,6 +88,6 @@ user_groups:
 
 I’m a Postdocteral Research Scientist at Harvard Medical School. My research interests are mainly in bioinformatics, single-cell genomics, deep learning, and human (epi)genetics.
 
-I completed my Ph.D. of Bioinformatics from Harbin Medical University (2018). In early 2020, I joined in Guocheng Yuan lab at Dana-Farber Cancer Institute and Vijay Sankaran lab at Boston Children’s Hospital/Broad Institute as a research fellow, repectively, where I worked on algorithm and tool development in terms of single-cell genomics and human genetics.
+I completed my Ph.D. of Bioinformatics from Harbin Medical University (2018). In early 2020, I joined in Guocheng Yuan lab at Dana-Farber Cancer Institute and Vijay Sankaran lab at Boston Children’s Hospital/Broad Institute as a research fellow, repectively, where I worked on algorithm and tool development in terms of single-cell genomics and human genetics.1111
 
 Email: 'yu_fulong@gzlab.ac.cn'
