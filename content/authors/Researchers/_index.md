@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Postdoc
+title: Research Intern
 
 # Username (this should match the folder name)
 authors:
-  - Postdoc
+  - Guangze Xia
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow
+role: Research Intern (研究实习员)
 
 # # Organizations/Affiliations
 # organizations:
@@ -18,7 +18,7 @@ role: Postdoctoral Fellow
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: After finishing his Master's degree at the Medicine School of the University of Southampton, Guangze Xia became a member of the Yu Lab. His area of expertise lies in analyzing gen/transcript-omics data, and he has a keen interest in the application of Machine Learning in biology. Apart from his work, he enjoys pursuing sports and science-related activities as his hobbies.
 
 # interests:
 #   - Artificial Intelligence
@@ -61,7 +61,7 @@ role: Postdoctoral Fellow
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'guangzexia@gmail.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
