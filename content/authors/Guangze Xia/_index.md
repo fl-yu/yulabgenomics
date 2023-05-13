@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Research Intern
+title: Guangze Xia
 
 # Username (this should match the folder name)
 authors:
