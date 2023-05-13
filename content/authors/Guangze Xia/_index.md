@@ -4,7 +4,7 @@ title: Guangze Xia
 
 # Username (this should match the folder name)
 authors:
-  - Guangze Xia
+  - 'Guangze Xia'
 
 # Is this the primary user of the site?
 superuser: false
