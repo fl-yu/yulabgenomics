@@ -7,7 +7,7 @@ type: "widget_page"  # Page type is a Widget Page
 
 
 
-于福龙研究员，博士毕业于哈尔滨医科大学，师从程书钧院士和李霞教授。之后在美国哈佛医学院Dana Farber Cancer Institute ([Yuan lab](https://labs.icahn.mssm.edu/yuanlab/)) 和Broad Institute ([Sankaran lab](https://www.bloodgenes.org/)) 从事研究工作，2023年3月将加入广州国家实验室（Guangzhou Laboratory）。课题组的研究将聚焦于群体遗传学，单细胞基因组学和空间组学的新算法和工具的研发，并使用这些新技术和方法研究呼吸系统相关表型和疾病中的重要生物学问题。目前发表论文26篇，其中以第一或通讯作者在*Nature Biotechnology*，*Nature Immunology*，*Nucleic Acids Research*和*Bioinformatics*等在内的专业杂志发表高水平论文10篇，H index=13。开发的SCAVENGE和HemeMap等算法被*Nature Genetics*等多家机构媒体报道。多次受邀作为独立审稿人在*Nature Communications*和*Nucleic Acids Research*等杂志评审论文数十次。任杂志*Cells*特刊客座编辑及浙江省生物信息学会青年委员。
+于福龙研究员，博士毕业于哈尔滨医科大学，师从程书钧院士、李霞和李亦学教授。之后在美国哈佛医学院Dana Farber Cancer Institute ([Yuan lab](https://labs.icahn.mssm.edu/yuanlab/)) 和Broad Institute ([Sankaran lab](https://www.bloodgenes.org/)) 从事研究工作，2023年3月将加入广州国家实验室（Guangzhou Laboratory）。课题组的研究将聚焦于群体遗传学，单细胞基因组学和空间组学的新算法和工具的研发，并使用这些新技术和方法研究呼吸系统相关表型和疾病中的重要生物学问题。目前发表论文26篇，其中以第一或通讯作者在*Nature Biotechnology*，*Nature Immunology*，*Nucleic Acids Research*和*Bioinformatics*等在内的专业杂志发表高水平论文10篇，H index=13。开发的SCAVENGE和HemeMap等算法被*Nature Genetics*等多家机构媒体报道。多次受邀作为独立审稿人在*Nature Communications*和*Nucleic Acids Research*等杂志评审论文数十次。任杂志*BMC Bioinformatcis*编委会委员，*Cells*特刊客座编辑及浙江省生物信息学会青年委员。
 
 **拟招聘各个层次包括副研究员和博士后，研究实习员，软件工程师及科研助理，博士生和实习生数名。在这里，我们将充分考虑每个人的发展，提供最理想的科研环境和具有竞争力的待遇，同时你也会得到细心的指导，接触前沿的研究，与国内外顶尖实验室密切的合作和充分的idea碰撞（特别优秀者可推荐至哈佛实验室联合培养或交流访问），期待志同道合的朋友加入实验室，实现自己的目标，一起做出高水平有意义的工作！！！**  
 [广州实验室于福龙课题组公开招聘](https://mp.weixin.qq.com/s/uUvTa_yqP3dhIsChc2gx3Q)  
