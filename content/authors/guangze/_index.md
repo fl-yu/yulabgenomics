@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guangze Xia \n (夏光泽)
+title: Guangze Xia (夏光泽)
 
 # Username (this should match the folder name)
 authors:
