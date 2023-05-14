@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Graduate Student
+title: Qinhao Zhang (张钦豪)
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate student
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
