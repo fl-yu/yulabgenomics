@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guangze Xia
+title: Guangze Xia (夏光泽)
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ role: Research Intern (研究实习员)
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
-bio: After finishing his Master's degree at the Medicine School of the University of Southampton, Guangze Xia became a member of the Yu Lab. His area of expertise lies in analyzing gen/transcript-omics data, and he has a keen interest in the application of Machine Learning in biology. Apart from his work, he enjoys pursuing sports and science-related activities as his hobbies.
+bio:  
 
 # interests:
 #   - Artificial Intelligence
