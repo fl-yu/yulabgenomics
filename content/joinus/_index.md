@@ -21,7 +21,7 @@ Candidates with one of the following backgrounds are strongly encouraged to appl
 
 If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV. Please indicate “Application Research Fellow (Your name)” in the email subject.
 
-My Email: yufulong421@gmail.com
+My Email: yu_fulong@gzlab.ac.cn / yufulong421@gmail.com
 
 <br/><br/>
 <br/><br/>
