@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cuiyi Yang
+title: Cuiyi Yang（杨翠怡）
 
 # Username (this should match the folder name)
 authors:
@@ -68,6 +68,10 @@ email: ''
 user_groups:
   - Lab manager
 ---
+
+Having graduated with a bachelor's degree in Material Forming and Control Engineering (Teacher Training) from GuangDong Polytechnic Normal University, Cuiyi Yang now works as the lab manager in the Yu Lab. Prior to joining the Yu Lab, she spent nine months as a research assistant at South China University of Technology, acquiring valuable scientific research knowledge and skills.
+
+E-mail：cuiyi-yang@foxmail.com
 
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 

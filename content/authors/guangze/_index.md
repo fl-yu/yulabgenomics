@@ -69,6 +69,9 @@ user_groups:
   - Researchers
 ---
 
+Guangze Xia obtained his Master's degree from the Medicine School at the University of Southampton prior to joining the Yu Lab. He specializes in analyzing Gen/Transcript-omics data and has a keen interest in exploring the applications of machine learning in the field of biology. When he's not working, he enjoys engaging in sports and exploring scientific topics.
+
+E-mail：guangzexia@gmail.com
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->

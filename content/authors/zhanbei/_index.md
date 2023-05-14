@@ -69,6 +69,10 @@ user_groups:
   - Grad Students
 ---
 
+Zhanbei Zhu earned his master's degree from the Respiratory Health Research Institute at Guangzhou Medical University and had significant experience in bioinformatics analysis and experimental techniques before joining the Yu Lab. His primary area of interest is deep learning, which he is passionate about. Outside of his work, he enjoys reading to broaden his thinking and participating in sports to maintain his physical and mental well-being. By combining his professional skills with personal hobbies, he continually strives for personal growth and professional development.
+
+E-mail：zhu_zb@yeah.net
+
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
