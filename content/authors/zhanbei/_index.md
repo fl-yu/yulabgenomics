@@ -1,6 +1,6 @@
 ---
 # Display name
-title: zhanbei
+title: Zhanbei Zhu (朱占北)
 
 # Username (this should match the folder name)
 authors:
