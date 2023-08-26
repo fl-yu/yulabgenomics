@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Faming Chen（陈法铭）
+title: Faming Chen Ph.D.（陈法铭）
 
 # Username (this should match the folder name)
 authors:
