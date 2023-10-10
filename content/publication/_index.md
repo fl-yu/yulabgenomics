@@ -10,6 +10,12 @@ type: "widget_page"  # Page type is a Widget Page
 ### __**Selected publications**__  
 \# denotes co-first author and * denotes (co-)corresponding author. An up-to-date list of all publications is available on [Google Scholar](https://scholar.google.com/citations?user=sslV11MAAAAJ).
 <!-- Major Publications (A Yu Lab member is the ^(co-)first or *(co-)corresponding author) -->
+
+##### 2023
+[*Systematic investigation of mitochondrial transfer between cancer cells and T cells at single-cell resolution.*](https://www.cell.com/cancer-cell/pdfExtended/S1535-6108(23)00319-7)  
+Zhang, H., Yu, X., Ye, J., Li, H., Hu, J., Tan, H., Fang, Y., Akbay, E., **<ins>Yu, F.</ins>**, ..., Bo Li\*  ***Cancer Cell*** 
+
+- Before independence
 ##### 2022
 [*A genetic disorder reveals a hematopoietic stem cell regulatory network co-opted in leukemia.*](https://www.nature.com/articles/s41590-022-01370-4)  
 Voit, R.#, Tao, L.#, **<ins>Yu, F.#</ins>**, Cato, L., Cohen, B., Liao, X., Claudia, F., Nandakumar, S., Wahlster, L., Kristian, T., Regev, A.\*, and Sankaran, V., G.\* ***Nature Immunology***   

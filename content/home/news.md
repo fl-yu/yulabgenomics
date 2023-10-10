@@ -22,6 +22,9 @@ design:
   view: 3
   columns: '1'
 ---
+### 10/10/2023 
+Our collaboration paper was published in *Cancer Cell*!
+
 ### 12/20/2022 
 Our MECOM regulatory network paper was published in *Nature Immunology*!
 
