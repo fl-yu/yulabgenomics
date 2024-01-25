@@ -12,7 +12,7 @@ type: "widget_page"  # Page type is a Widget Page
 <!-- Major Publications (A Yu Lab member is the ^(co-)first or *(co-)corresponding author) -->
 
 ##### 2024
-[*Deciphering cell states and genealogies of human hematopoiesis.*](https://www.nature.com/articles/s41586-024-07066-z#article-info)  
+[*Deciphering cell states and genealogies of human hematopoiesis.*](https://www.nature.com/articles/s41586-024-07066-z)  
 Weng, C., **<ins>Yu, F.</ins>**, Yang, D., Poeschla,, M., ..., Sankaran, V., G.\*  ***Nature*** 
 
 ##### 2023
