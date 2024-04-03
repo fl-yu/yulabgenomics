@@ -8,12 +8,12 @@ type: "widget_page"  # Page type is a Widget Page
 
 
 ### __**Publications**__  
-\# or ^ denotes authors contribute equally, * denotes (co-)corresponding author and <ins>  </ins> is a lab member. An up-to-date list of all publications is available on [Google Scholar](https://scholar.google.com/citations?user=sslV11MAAAAJ).
+\# or ^ denotes authors contribute equally, * denotes (co-)corresponding author and \_ \_ denotes a lab member. An up-to-date list of all publications is available on [Google Scholar](https://scholar.google.com/citations?user=sslV11MAAAAJ).
 <!-- Major Publications (A Yu Lab member is the ^(co-)first or *(co-)corresponding author) -->
-<ins>Xia, G.</ins>
+
 ##### 2024
-[*A noncoding regulatory variant in IKZF1 increases acute lymphoblastic leukemia risk in Hispanic/Latino children.*](https://www.nature.com/articles/s41586-024-07066-z)  
-Smith, A.#\*,Wahlster, L.#, Jeon, S.#, Kachuri, L., ..., <ins>Xia, G.</ins>, ..., **<ins>Yu, F.</ins>**^, Chiang, C.^, V., G.\*^  ***Cell Genomics*** 
+[*A noncoding regulatory variant in IKZF1 increases acute lymphoblastic leukemia risk in Hispanic/Latino children.*](https://pubmed.ncbi.nlm.nih.gov/38537633)  
+Smith, A.#\*,Wahlster, L.#, Jeon, S.#, Kachuri, L., ..., <ins>Xia, G.</ins>, ..., **<ins>Yu, F.</ins>**^, Chiang, C.^, V., G.\*^.  ***Cell Genomics*** 
 
 
 [*Deciphering cell states and genealogies of human hematopoiesis.*](https://www.nature.com/articles/s41586-024-07066-z)  
