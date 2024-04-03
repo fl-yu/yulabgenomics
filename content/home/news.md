@@ -22,6 +22,10 @@ design:
   view: 3
   columns: '1'
 ---
+
+### 03/27/2024 
+Our paper was published in *Cell Genomics* !
+
 ### 01/23/2024 
 Our collaboration paper was published in *Nature* !
 
