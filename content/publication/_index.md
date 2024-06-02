@@ -25,7 +25,7 @@ Zhang, H., Yu, X., Ye, J., Li, H., Hu, J., Tan, H., Fang, Y., Akbay, E., **<ins>
 
 <br/><br/>
 - Selected publications before independence 
-
+<!-- 
 ##### 2022
 [*A genetic disorder reveals a hematopoietic stem cell regulatory network co-opted in leukemia.*](https://www.nature.com/articles/s41590-022-01370-4)  
 Voit, R.#, Tao, L.#, **<ins>Yu, F.#</ins>**, Cato, L., Cohen, B., Liao, X., Claudia, F., Nandakumar, S., Wahlster, L., Kristian, T., Regev, A.\*, and Sankaran, V., G.\* ***Nature Immunology***   
@@ -35,7 +35,20 @@ Voit, R.#, Tao, L.#, **<ins>Yu, F.#</ins>**, Cato, L., Cohen, B., Liao, X., Clau
 [*Variant to function mapping at single-cell resolution through network propagation.*](https://www.nature.com/articles/s41587-022-01341-y)  
 **<u>Yu, F.</u>**, Cato L., D., Weng, C., Liggett L., A., Jeon, S., Xu, K., Chiang, C., Wiemels J., L., Weissman J., S., , Smith A. J., and Sankaran V., G.\* ***Nature Biotechnology***  
 [[<ins>Github</ins>]](https://github.com/sankaranlab/SCAVENGE), [[<ins>Highlight by Nature Genetics</ins>]](https://www.nature.com/articles/s41588-022-01136-6), [[<ins>Highlight by New York Stem Cell Foundation</ins>]](https://nyscf.org/resources/meet-scavenge-a-search-engine-to-uncover-how-genetic-variations-affect-our-cells/#sq_h3qn23vs5o), [[<ins>Highlight by Broad Institute</ins>]](https://www.broadinstitute.org/news/research-roundup-june-13-2022), [[<ins>Highlight by NHGRI CEGS center</ins>]](https://twitter.com/cegs_ica/status/1498361205777481728?lang=en), [[<ins>Highlight by Single Cell Genomics Day</ins>]](https://satijalab.org/scgd22/), [[<ins>Highlight by Turingene</ins>]](https://mp.weixin.qq.com/s/RN39JurpmiaSWFIMEW6RFg), [[<ins>Highlight by BioArt</ins>]](https://mp.weixin.qq.com/s/0HNjEfdi5Lyqd_w7pVySRw)
+{{% staticref "files/8.pdf" "newtab" %}}[PDF]{{% /staticref %}} -->
+
+
+##### 2022
+[*A genetic disorder reveals a hematopoietic stem cell regulatory network co-opted in leukemia.*](https://www.nature.com/articles/s41590-022-01370-4)  
+Voit, R.#, Tao, L.#, **<ins>Yu, F.#</ins>**, Cato, L., Cohen, B., Liao, X., Claudia, F., Nandakumar, S., Wahlster, L., Kristian, T., Regev, A.\*, and Sankaran, V., G.\* ***Nature Immunology***   
+[[<ins>Github</ins>]](https://github.com/sankaranlab/mecom_var), [[<ins>Data</ins>]](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175521), [[<ins>Highlight by Boston Children’s Hospital</ins>](https://answers.childrenshospital.org/acute-myeloid-leukemia/), [<ins>BioArt</ins>]](https://mp.weixin.qq.com/s/bfSg24t-HAcoA8rUhHGcfg)  
+{{% staticref "files/9.pdf" "newtab" %}}[PDF]{{% /staticref %}}
+
+[*Variant to function mapping at single-cell resolution through network propagation.*](https://www.nature.com/articles/s41587-022-01341-y)  
+**<u>Yu, F.</u>**, Cato L., D., Weng, C., Liggett L., A., Jeon, S., Xu, K., Chiang, C., Wiemels J., L., Weissman J., S., , Smith A. J., and Sankaran V., G.\* ***Nature Biotechnology***  
+[[<ins>Github</ins>]](https://github.com/sankaranlab/SCAVENGE), [[<ins>Highlight by Nature Genetics</ins>](https://www.nature.com/articles/s41588-022-01136-6), [<ins>New York Stem Cell Foundation</ins>](https://nyscf.org/resources/meet-scavenge-a-search-engine-to-uncover-how-genetic-variations-affect-our-cells/#sq_h3qn23vs5o), [<ins>Broad Institute</ins>](https://www.broadinstitute.org/news/research-roundup-june-13-2022), [<ins>BioArt</ins>]](https://mp.weixin.qq.com/s/0HNjEfdi5Lyqd_w7pVySRw)
 {{% staticref "files/8.pdf" "newtab" %}}[PDF]{{% /staticref %}}
+
 
 ##### 2021
 [*A pipeline for single-cell and bulk-level CUT&RUN and CUT&Tag data analysis.*](https://academic.oup.com/bioinformatics/article/38/1/252/6318389)  
