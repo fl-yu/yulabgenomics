@@ -10,10 +10,7 @@ Our paper was published in *Cell Genomics* !
 Our collaboration paper was published in *Nature* !
 ### 10/10/2023 
 Our collaboration paper was published in *Cancer Cell* !
-### 12/20/2022 
-Our MECOM regulatory network paper was published in *Nature Immunology* !
-### 12/09/2022 
-We are excited that the Yu lab will be open in March 2023.
+
 
 <!-- 
 ### 12/09/2022 
