@@ -41,7 +41,7 @@ Voit, R.#, Tao, L.#, **<ins>Yu, F.#</ins>**, Cato, L., Cohen, B., Liao, X., Clau
 ##### 2022
 [*A genetic disorder reveals a hematopoietic stem cell regulatory network co-opted in leukemia.*](https://www.nature.com/articles/s41590-022-01370-4)  
 Voit, R.#, Tao, L.#, **<ins>Yu, F.#</ins>**, Cato, L., Cohen, B., Liao, X., Claudia, F., Nandakumar, S., Wahlster, L., Kristian, T., Regev, A.\*, and Sankaran, V., G.\* ***Nature Immunology***   
-[[<ins>Github</ins>]](https://github.com/sankaranlab/mecom_var), [[<ins>Data</ins>]](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175521), [Highlight by [<ins>Boston Children’s Hospital</ins>](https://answers.childrenshospital.org/acute-myeloid-leukemia/), [<ins>BioArt</ins>](https://mp.weixin.qq.com/s/bfSg24t-HAcoA8rUhHGcfg)]  
+[[<ins>Github</ins>]](https://github.com/sankaranlab/mecom_var), [[<ins>Data</ins>]](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175521), Highlight by [[<ins>Boston Children’s Hospital</ins>](https://answers.childrenshospital.org/acute-myeloid-leukemia/), [<ins>BioArt</ins>](https://mp.weixin.qq.com/s/bfSg24t-HAcoA8rUhHGcfg)]  
 {{% staticref "files/9.pdf" "newtab" %}}[PDF]{{% /staticref %}}
 
 [*Variant to function mapping at single-cell resolution through network propagation.*](https://www.nature.com/articles/s41587-022-01341-y)  
