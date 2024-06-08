@@ -14,10 +14,10 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  Primary contact: Fulong Yu
-  email: yu_fulong@gzlab.ac.cn; yufulong421@gmail.com
-  Administrative contact: Wang Chen
-  email: chen_wang01@gzlab.ac.cn
+  # Primary contact: Fulong Yu
+  # email: yu_fulong@gzlab.ac.cn; yufulong421@gmail.com
+  # Administrative contact: Wang Chen
+  # email: chen_wang01@gzlab.ac.cn
   address:
     street: Xingdao North Ring Road No.9, Guangzhou International Bio-Island, Haizhu District
     city: Guangzhou
@@ -26,8 +26,8 @@ content:
     country: China
     country_code: China
   coordinates:
-    latitude: '23.03407'
-    longitude: '113.2227'
+    latitude: '23.06376'
+    longitude: '113.36859'
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
@@ -57,14 +57,14 @@ design:
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
 --->
 
-Primary contact: Xiao Wang
+Primary contact: Fulong Yu
 
-Email: xwangx@mit.edu; wangxiao@broadinstitute.org
+Email: yu_fulong@gzlab.ac.cn; yufulong421@gmail.com
 
-Phone: (617) 714-7969
+Administrative contact: Wang Chen
 
-Address: 75 Ames St, Office 8013, Cambridge, MA 02142
+Email: chen_wang01@gzlab.ac.cn
 
-Administrative contact: Erin Howard
+GENERAL SEARCH
+We are always looking for great people to join us. 
 
-Email: elapasar@broadinstitute.org
