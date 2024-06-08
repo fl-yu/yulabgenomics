@@ -24,7 +24,7 @@ Weng, C., **<ins>Yu, F.</ins>**, Yang, D., Poeschla,, M., ..., Sankaran, V., G.\
 Zhang, H., Yu, X., Ye, J., Li, H., Hu, J., Tan, H., Fang, Y., Akbay, E., **<ins>Yu, F.</ins>**, ..., Bo Li\*  ***Cancer Cell*** 
 
 <br/><br/>
-- Selected publications before independence 
+> Selected publications before 2022 
 <!-- 
 ##### 2022
 [*A genetic disorder reveals a hematopoietic stem cell regulatory network co-opted in leukemia.*](https://www.nature.com/articles/s41590-022-01370-4)  
