@@ -23,7 +23,7 @@ Weng, C., **<ins>Yu, F.</ins>**, Yang, D., Poeschla,, M., ..., Sankaran, V., G.\
 [*Systematic investigation of mitochondrial transfer between cancer cells and T cells at single-cell resolution.*](https://www.cell.com/cancer-cell/pdfExtended/S1535-6108(23)00319-7)  
 Zhang, H., Yu, X., Ye, J., Li, H., Hu, J., Tan, H., Fang, Y., Akbay, E., **<ins>Yu, F.</ins>**, ..., Bo Li\*  ***Cancer Cell*** 
 
-<br/><br/>
+<!-- <br/><br/> -->
 > Selected publications before 2022 
 <!-- 
 ##### 2022

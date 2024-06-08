@@ -66,5 +66,7 @@ Administrative contact: Wang Chen
 Email: chen_wang01@gzlab.ac.cn
 
 GENERAL SEARCH: 
-We are always looking for great people to join us. 
+We are always looking for great people to join us.   
+> [The previous job posting](https://mp.weixin.qq.com/s/aQiyurfFb3NXljhOTXLN6Q)
+
 

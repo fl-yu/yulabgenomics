@@ -101,6 +101,6 @@ I started my lab at the Guangzhou National Laboratory in 2022. Our research focu
 广东省自然科学基金杰出青年项目  
 
 - 兼职：  
-广东省呼吸与健康学会干细胞与专委会委员  
+广东省呼吸与健康学会干细胞与再生医学专委会委员  
 *BMC Bioinformatics* Editorial Board Member  
 
