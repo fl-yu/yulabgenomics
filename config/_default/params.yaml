@@ -10,7 +10,7 @@ appearance:
   # theme_night: 
   font: Minimal 
   font_size: L
-  mode: light
+  mode: system
   color: blue
 
 # SEO
