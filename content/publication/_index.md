@@ -7,7 +7,7 @@ type: "widget_page"  # Page type is a Widget Page
 
 <!-- I have a list of names: L. Alexander Liggett, Matthew G. Jones, Xiaojie Qiu, Lara Wahlster, Alexis Caulier, Jeffrey A. Hussmann, Alexandra Schnell, Kathryn E. Yost, Luke W. Koblan, Jorge D. Martin-Rufino, Joseph Min, Alessandro Hammond, Daniel Ssozi, Raphael Bueno, Hari Mallidi, Antonia Kreso, Javier Escabi, William M. Rideout III, Tyler Jacks, Sahand Hormoz, Peter van Galen, Jonathan S. Weissman & Vijay G. Sankaran, I would like to reformat as last name, the first letter of the first name. for example, change Xiaojie Qiu to "Qiu, X.", do it for me, concat them with comma -->
 
-### __**Publications**__  
+<!-- ### __**Publications**__   -->
 \# or ^ denotes authors contribute equally, * denotes (co-)corresponding author and \_ \_ denotes a lab member. An up-to-date list of all publications is available on [Google Scholar](https://scholar.google.com/citations?user=sslV11MAAAAJ).
 <!-- Major Publications (A Yu Lab member is the ^(co-)first or *(co-)corresponding author) -->
 
