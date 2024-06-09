@@ -7,12 +7,12 @@ type: "widget_page"  # Page type is a Widget Page
 
 
 ## Tool:
-- [**HemeMap**](https://github.com/sankaranlab/mecom_var) (*Nature Immunology, 2022*): A computational framework to identify putative cisREs and cell-type-specific cisRE-gene interactions by integrating multiomic data from 18 hematopoietic cell populations.
-- [**SCAVENGE**](https://github.com/sankaranlab/SCAVENGE) (*Nature Biotechnology, 2022*): An R package for dentifying genetic trait/phenotype relevant cell type/state at single cell resolution.
-- [**CUT&RUNTools 2.0**](https://github.com/fl-yu/CUT-RUNTools-2.0) (*Bioinformatics, 2021*): A tool for bulk and single-cell CUT&RUN/CUT&Tag data processing and analysis.
+- [**HemeMap**](https://github.com/sankaranlab/mecom_var) (*Nature Immunology, 2022* ): A computational framework to identify putative cisREs and cell-type-specific cisRE-gene interactions by integrating multiomic data from 18 hematopoietic cell populations.
+- [**SCAVENGE**](https://github.com/sankaranlab/SCAVENGE) (*Nature Biotechnology, 2022* ): An R package for dentifying genetic trait/phenotype relevant cell type/state at single cell resolution.
+- [**CUT&RUNTools 2.0**](https://github.com/fl-yu/CUT-RUNTools-2.0) (*Bioinformatics, 2021* ): A tool for bulk and single-cell CUT&RUN/CUT&Tag data processing and analysis.
 
 ## Database:
-- [**CFEA**](http://www.bio-data.cn/CFEA/) (*Nucleic Acids Research 2020*): A cell-free epigenome database dedicated to three types of widely adopted epigenetic modifications involved in 27 human diseases.
+- [**CFEA**](http://www.bio-data.cn/CFEA/) (*Nucleic Acids Research 2020* ): A cell-free epigenome database dedicated to three types of widely adopted epigenetic modifications involved in 27 human diseases.
 
 <!-- 
 ### 12/09/2022 
