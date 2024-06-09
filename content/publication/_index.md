@@ -1,6 +1,6 @@
 ---
 title: "Publication"  # Add a page title.
-summary: "\# or ^ denotes authors contribute equally, * denotes (co-)corresponding author and \_ \_ denotes a lab member. An up-to-date list of all publications is available on [Google Scholar](https://scholar.google.com/citations?user=sslV11MAAAAJ)."  # Add a page description.
+summary: ""  # Add a page description.
 date: "2022-12-20T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
