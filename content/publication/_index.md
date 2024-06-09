@@ -63,18 +63,18 @@ Zhang, Y#., Zhang, Y#., Hu, J.#, Zhang, J., Guo, F., Zhou, M., Zhang, G.\*, **<u
 {{% staticref "files/6.pdf" "newtab" %}}[PDF]{{% /staticref %}}
 
 [*CFEA: a cell-free epigenome atlas in human diseases.*](https://academic.oup.com/nar/article/48/D1/D40/5552060)  
-**<u>Yu, F.#</u>**, Li, K.#, Li, S.#, Liu, J., Zhang, Y., Zhou, M., Zhao, H., Chen, H., Wu, N., Liu, Z.\*, and Su, J.\*  ***Nucleic acids research***  
+**<u>Yu, F.#</u>**, Li, K.#, Li, S.#, Liu, J., Zhang, Y., Zhou, M., Zhao, H., Chen, H., Wu, N., Liu, Z.\*, and Su, J.\*  ***Nucleic Acids Research***  
 [[<ins>Website</ins>]](http://www.bio-data.cn/CFEA)  
 {{% staticref "files/5.pdf" "newtab" %}}[PDF]{{% /staticref %}}
 
 
 ##### 2019
 [*Breast cancer prognosis signature: linking risk stratification to disease subtypes.*](https://academic.oup.com/bib/article/20/6/2130/5090083)  
-**<u>Yu, F.#</u>**, Quan, F.#, Xu, J.#, Zhang, Y.#, Xie, Y., Zhang, J., Lan, Y., Yuan, H., Zhang, H., Cheng, S.\*, Xiao, Y.\*, and Li, X.\*  ***Briefings in bioinformatics***  
+**<u>Yu, F.#</u>**, Quan, F.#, Xu, J.#, Zhang, Y.#, Xie, Y., Zhang, J., Lan, Y., Yuan, H., Zhang, H., Cheng, S.\*, Xiao, Y.\*, and Li, X.\*  ***Briefings in Bioinformatics***  
 {{% staticref "files/4.pdf" "newtab" %}}[PDF]{{% /staticref %}}
 
 [*Systematic Characterization of Circular RNA-Associated CeRNA Network Identified Novel circRNA Biomarkers in Alzheimer’s Disease.*](https://www.frontiersin.org/articles/10.3389/fbioe.2019.00222/full)  
-Zhang, Y.#, **<u>Yu, F.#</u>**, Bao, S., and & Sun, J.\*  ***Frontiers in bioengineering and biotechnology***  
+Zhang, Y.#, **<u>Yu, F.#</u>**, Bao, S., and & Sun, J.\*  ***Frontiers in Bioengineering and Biotechnology***  
 {{% staticref "files/3.pdf" "newtab" %}}[PDF]{{% /staticref %}}
 
 
@@ -86,7 +86,7 @@ Zhang, Y.#, **<u>Yu, F.#</u>**, Bao, S., and & Sun, J.\*  ***Frontiers in bioeng
 
 ##### 2015
 [*MeSiC: A Model-Based Method for Estimating 5 mC Levels at Single-CpG Resolution from MeDIP-seq.*](https://www.nature.com/articles/srep14699)  
-Xiao, Y.#, **<u>Yu, F.#</u>**, Pang, L.#, Zhao, H., Liu, L., Zhang, G., Liu, T., Zhang, H., Fan, H., Zhang, Y., Pang, B., and & Li, X.\*  ***Scientific reports***  
+Xiao, Y.#, **<u>Yu, F.#</u>**, Pang, L.#, Zhao, H., Liu, L., Zhang, G., Liu, T., Zhang, H., Fan, H., Zhang, Y., Pang, B., and & Li, X.\*  ***Scientific Reports***  
 {{% staticref "files/1.pdf" "newtab" %}}[PDF]{{% /staticref %}}
 
 
