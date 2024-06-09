@@ -7,21 +7,21 @@ main:
   - name: HOME
     url: /#home
     weight: 10
-  - name: Lab Members
+  - name: LAB MEMBERS
     url: people
     weight: 30
-  - name: Research
+  - name: RESEARCH
     url: research
     weight: 40
-  - name: Publications
+  - name: PUBLICATION
     url: publication
     weight: 50
-  # - name: Resources
-  #   url: resource
-  #   weight: 55
-  - name: Join Us!
-    url: joinus
-    weight: 60
-  - name: Contact
+  - name: RESOURCE
+    url: resource
+    weight: 55
+  # - name: Join Us!
+  #   url: joinus
+  #   weight: 60
+  - name: CONTACT
     url: contact
     weight: 70
