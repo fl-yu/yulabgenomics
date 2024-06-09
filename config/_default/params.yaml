@@ -6,10 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: 
+  # theme_day: minimal
+  # theme_night: 
   font: Minimal 
   font_size: L
+  mode: light
+  color: blue
 
 # SEO
 
