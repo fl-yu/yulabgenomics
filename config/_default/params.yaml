@@ -8,10 +8,10 @@
 appearance:
   theme_day: minimal
   theme_night: 
-  # font: Minimal 
-  # font_size: L
-  font_size = "20"
-  font_size_small = "16"
+  font: Minimal 
+  font_size: L
+  # font_size = "20"
+  # font_size_small = "16"
   # mode: system
   # color: blue
 
