@@ -80,10 +80,14 @@ Further event details, including page elements such as image galleries, can be a
 ## Our Research Interests
 We have a broad interest in building data resources and developing computational algorithms and software for biomedical big data mining. Specifically, we focus on:
 
-> Dissecting fine-grained regulatory circuits and how they are perturbed in different diseases.
-> Predicting the impact and mechanisms of genome variations relevant to phenotypes and diseases at scale using computational simulations.
-> Estimating disease susceptibility risk by integrating vast amounts of individual genomic and phenotypic data.
-> Establishing genome foundation AI models for the early warning and prevention of respiratory and blood diseases.
+> Dissecting fine-grained regulatory circuits and how they are perturbed in different diseases.  
+
+> Predicting the impact and mechanisms of genome variations relevant to phenotypes and diseases at scale using computational simulations.  
+
+> Estimating disease susceptibility risk by integrating vast amounts of individual genomic and phenotypic data.  
+
+> Establishing genome foundation AI models for the early warning and prevention of respiratory and blood diseases.  
+
 <!-- - Digitally interpreting and forecasting genetic evolution across different species. -->
 <!-- - Formulating an efficient strategy for genome tokenization and establishing a multimodal unified genome model. -->
 Currently, we are most excited about developing advanced deep learning architectures and foundational models for genomics that are trained on extensive datasets and designed to be versatile enough to handle a wide range of specific applications.
