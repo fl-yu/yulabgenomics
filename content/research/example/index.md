@@ -77,13 +77,14 @@ Further event details, including page elements such as image galleries, can be a
 - Dissect the fine-grained regulatory circuits and how they are perturbed in different diseases 
 - Machine learning models for disease diagnosis, risk prediction, and the development of new therapies -->
 
-# Our research interests
-We are dedicated to developing advanced deep learning architectures and foundational models for genomics. Our models, trained on extensive datasets, are designed to be versatile enough to handle a wide range of specific applications. 
-## Our primary interests include:
-- Predicting the impact and mechanisms of genome variations relevant to phenotypes and diseases at scale using computational simulations.
-- Estimating disease susceptibility risk by integrating vast amounts of individual genomic and phenotypic data.
-- Formulating an efficient strategy for genome tokenization and establishing a multimodal unified genome model.
-- Unveiling the transcriptional regulatory code across various tissues and cell types.
-- Establishing a foundational model for the virome, focusing on early warning and prevention of respiratory virus infections.
-- Digitally interpreting and forecasting genetic evolution across different species.
-#### Additionally, we have a broad interest in building data resources and developing computational algorithms and software for biomedical big data mining.
+## Our Research Interests
+We have a broad interest in building data resources and developing computational algorithms and software for biomedical big data mining. Specifically, we focus on:
+
+> Dissecting fine-grained regulatory circuits and how they are perturbed in different diseases.
+> Predicting the impact and mechanisms of genome variations relevant to phenotypes and diseases at scale using computational simulations.
+> Estimating disease susceptibility risk by integrating vast amounts of individual genomic and phenotypic data.
+> Establishing genome foundation AI models for the early warning and prevention of respiratory and blood diseases.
+<!-- - Digitally interpreting and forecasting genetic evolution across different species. -->
+<!-- - Formulating an efficient strategy for genome tokenization and establishing a multimodal unified genome model. -->
+Currently, we are most excited about developing advanced deep learning architectures and foundational models for genomics that are trained on extensive datasets and designed to be versatile enough to handle a wide range of specific applications.
+
