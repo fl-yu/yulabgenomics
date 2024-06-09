@@ -5,7 +5,7 @@ date: "2022-12-20T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
-
+<!-- I have a list of names: L. Alexander Liggett, Matthew G. Jones, Xiaojie Qiu, Lara Wahlster, Alexis Caulier, Jeffrey A. Hussmann, Alexandra Schnell, Kathryn E. Yost, Luke W. Koblan, Jorge D. Martin-Rufino, Joseph Min, Alessandro Hammond, Daniel Ssozi, Raphael Bueno, Hari Mallidi, Antonia Kreso, Javier Escabi, William M. Rideout III, Tyler Jacks, Sahand Hormoz, Peter van Galen, Jonathan S. Weissman & Vijay G. Sankaran, I would like to reformat as last name, the first letter of the first name. for example, change Xiaojie Qiu to "Qiu, X.", do it for me, concat them with comma -->
 
 ### __**Publications**__  
 \# or ^ denotes authors contribute equally, * denotes (co-)corresponding author and \_ \_ denotes a lab member. An up-to-date list of all publications is available on [Google Scholar](https://scholar.google.com/citations?user=sslV11MAAAAJ).
@@ -13,15 +13,15 @@ type: "widget_page"  # Page type is a Widget Page
 
 ##### 2024
 [*A noncoding regulatory variant in IKZF1 increases acute lymphoblastic leukemia risk in Hispanic/Latino children.*](https://pubmed.ncbi.nlm.nih.gov/38537633)  
-Smith, A.#\*,Wahlster, L.#, Jeon, S.#, Kachuri, L., ..., <ins>Xia, G.</ins>, ..., **<ins>Yu, F.</ins>**^, Chiang, C.^, V., G.\*^.  ***Cell Genomics*** 
+Smith, A.#\*, Wahlster, L.#, Jeon, S.#, Kachuri, L.,Black, S., Langie, J., Cato, L. D., Nakatsuka, N., Chan, T.-F., <ins>Xia, G.</ins>, Mazumder, S., Yang, W., Gazal, S., Eng, C., Hu, D., González Burchard, E., Ziv, E., Metayer, C., Mancuso, N., Yang, J. J., Ma, X., Wiemels, J. L., **<ins>Yu, F.</ins>**^, Chiang, C.^, V., G.\*^.  ***Cell Genomics*** 
 
 
 [*Deciphering cell states and genealogies of human hematopoiesis.*](https://www.nature.com/articles/s41586-024-07066-z)  
-Weng, C., **<ins>Yu, F.</ins>**, Yang, D., Poeschla,, M., ..., Sankaran, V., G.\*.  ***Nature*** 
+Weng, C., **<ins>Yu, F.</ins>**, Yang, D., Poeschla,, M., Liggett, L. A., Jones, M. G., Qiu, X., Wahlster, L., Caulier, A., Hussmann, J. A., Schnell, A., Yost, K. E., Koblan, L. W., Martin-Rufino, J. D., Min, J., Hammond, A., Ssozi, D., Bueno, R., Mallidi, H., Kreso, A., Escabi, J., Rideout, W. M. III, Jacks, T., Hormoz, S., van Galen, P., Weissman, J. S., Sankaran, V. G.\*.  ***Nature*** 
 
 ##### 2023
 [*Systematic investigation of mitochondrial transfer between cancer cells and T cells at single-cell resolution.*](https://www.cell.com/cancer-cell/pdfExtended/S1535-6108(23)00319-7)  
-Zhang, H., Yu, X., Ye, J., Li, H., Hu, J., Tan, H., Fang, Y., Akbay, E., **<ins>Yu, F.</ins>**, ..., Bo Li\*  ***Cancer Cell*** 
+Zhang, H., Yu, X., Ye, J., Li, H., Hu, J., Tan, H., Fang, Y., Akbay, E., **<ins>Yu, F.</ins>**, Weng, C., Sankaran, V., G., Bachoo, R., Maher, E., Minna, J., Zhang, A., Bo Li\*  ***Cancer Cell*** 
 
 <!-- <br/><br/> -->
 > Selected publications before 2022 
