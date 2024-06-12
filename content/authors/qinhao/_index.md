@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qinhao Zhang (张钦豪)
+title: Qinhao Zhang 
 
 # Username (this should match the folder name)
 authors:
@@ -13,8 +13,8 @@ superuser: false
 role: Ph.D. Student
 
 # # Organizations/Affiliations
-# organizations:
-#   - name: Stanford University
+organizations:
+  - name: (张钦豪)
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)

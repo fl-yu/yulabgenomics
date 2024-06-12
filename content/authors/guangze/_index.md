@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guangze Xia (夏光泽)
+title: Guangze Xia
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Intern (研究实习员)
+role: Research Assistant
 
 # # Organizations/Affiliations
-# organizations:
-#   - name: Stanford University
+organizations:
+  - name: （夏光泽）
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)

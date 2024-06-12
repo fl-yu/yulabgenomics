@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fulong Yu Ph.D.   (于福龙)
+title: Fulong Yu Ph.D.
 
 # Is this the primary user of the site?
 superuser: true

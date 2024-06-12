@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tingting Hu (胡婷婷)
+title: Tingting Hu 
 
 # Username (this should match the folder name)
 authors:
@@ -13,8 +13,8 @@ superuser: false
 role: Ph.D. Student
 
 # # Organizations/Affiliations
-# organizations:
-#   - name: Stanford University
+organizations:
+  - name: (胡婷婷)
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
@@ -61,7 +61,7 @@ bio:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'guangzexia@gmail.com'
+email: 'hu_tingting@gzlab.ac.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
