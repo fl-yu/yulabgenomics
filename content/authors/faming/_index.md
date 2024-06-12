@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Faming Chen Ph.D.（陈法铭）
+title: Faming Chen Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -13,8 +13,8 @@ superuser: false
 role: Postdoctoral Researcher
 
 # # Organizations/Affiliations
-# organizations:
-#   - name: Stanford University
+organizations:
+  - name: （陈法铭）
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
