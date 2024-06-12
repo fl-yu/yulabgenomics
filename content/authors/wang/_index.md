@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Wang Chen      _     （陈旺）"
-
+subtitle: （陈旺）
 
 # Username (this should match the folder name)
 authors:
