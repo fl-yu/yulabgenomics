@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Wang Chen<span style="display:inline-block; width: 1em;"></span><span style="display:inline-block; width: 1em;"></span><span style="display:inline-block; width: 1em;"></span>（陈旺）"
+title: "Wang Chen（陈旺）"
 subtitle: （陈旺）
 
 # Username (this should match the folder name)
@@ -11,12 +11,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Lab Manager
+role: （陈旺）
 
 # # Organizations/Affiliations
-# organizations:
-#   - name: Stanford University
-#     url: ''
+organizations:
+  - name: （陈旺）
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
