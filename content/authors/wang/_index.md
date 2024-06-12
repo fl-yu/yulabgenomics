@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Wang Chen      _     （陈旺）"
+title: "Wang Chen%20%20%20%20%20%20%20%20%20%20（陈旺）"
 subtitle: （陈旺）
 
 # Username (this should match the folder name)
@@ -74,6 +74,3 @@ Chen Wang graduated from the Central South University for Nationalities with a b
 
 E-mail：CHEN_WANG01@gzlab.ac.cn
 
-<!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
