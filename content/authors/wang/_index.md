@@ -11,11 +11,11 @@ authors:
 superuser: false
 
 # Role/position
-role: （陈旺）
+role: Lab manager
 
 # # Organizations/Affiliations
-# organizations:
-#   - name: （陈旺）
+organizations:
+  - name: （陈旺）
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
