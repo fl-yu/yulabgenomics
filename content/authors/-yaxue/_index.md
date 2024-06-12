@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Faming Chen Ph.D.（陈法铭）
+title: Yaxue Fang (方雅雪)
 
 # Username (this should match the folder name)
 authors:
-  - faming
+  - yaxue
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Research Intern (研究实习员)
 
 # # Organizations/Affiliations
 # organizations:
@@ -18,7 +18,7 @@ role: Postdoctoral Researcher
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  
 
 # interests:
 #   - Artificial Intelligence
@@ -61,7 +61,7 @@ role: Postdoctoral Researcher
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'chen_faming@gzlab.ac.cn'
+email: 'yaxuefang@163.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,9 +69,9 @@ user_groups:
   - Researchers
 ---
 
-Faming Chen received his Ph.D. from the University of Chinese Academy of Sciences. During Ph.D. study, his research area was computational biology, and his research direction was to predict the functions of hub transcription factors through gene regulatory network reconstruction and analysis. After graduation, he joined Yu lab for postdoctoral research, and his current research direction is deep learning modeling of DNA sequence, which is applied to the analysis of the biological effects of DNA variants associated with human diseases.
+Yaxue Fang graduated with a Master's degree in Biology and Medicine from Fujian Agricultural and Forestry University. During her Master's studie, she focused primarily on transcriptome and comparative genomics analysis. She joined Yu lab, where her main research direction involves studying deep learning models related to viral genomes.
 
-E-mail：chen_faming@gzlab.ac.cn
+Email: yaxuefang@163.com
 
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 

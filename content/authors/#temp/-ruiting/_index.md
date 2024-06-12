@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Guangze Xia (夏光泽)
+title: Ruiting Yang (杨瑞亭)
 
 # Username (this should match the folder name)
 authors:
-  - guangze
+  - ruiting
 
 # Is this the primary user of the site?
 superuser: false
@@ -61,7 +61,7 @@ bio:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'guangzexia@gmail.com'
+email: 'yangruitingh@yeah.net'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,9 +69,9 @@ user_groups:
   - Researchers
 ---
 
-Guangze Xia obtained his Master's degree from the Medicine School at the University of Southampton prior to joining the Yu Lab. He specializes in analyzing Gen/Transcript-omics data and has a keen interest in exploring the applications of machine learning in the field of biology. When he's not working, he enjoys engaging in sports and exploring scientific topics.
+Ruiting Yang received her M.S. from the Hebei University of Engineering. Her major during her master's degree was computer science and technology, and her research direction was knowledge graphs, focusing on using graph neural networks to predict new knowledge in knowledge graphs. After graduation, she joined Yu lab for Research Intern, and her current research direction is deep learning modeling of DNA seguence, which is applied to the analysis of thebiological effects of DNA variants associated with human diseases.
 
-E-mail：guangzexia@gmail.com
+E-mail: yangruitingh@yeah.net
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
