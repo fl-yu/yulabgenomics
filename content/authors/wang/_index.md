@@ -1,7 +1,7 @@
 ---
 # Display name
-title: "Wang Chen（陈旺）"
-subtitle: （陈旺）
+title: "Wang Chen"
+
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,8 @@ superuser: false
 role: （陈旺）
 
 # # Organizations/Affiliations
-organizations:
-  - name: （陈旺）
+# organizations:
+#   - name: （陈旺）
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
