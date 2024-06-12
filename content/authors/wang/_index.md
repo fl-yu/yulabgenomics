@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Wang Chen%20%20%20%20%20%20%20%20%20%20（陈旺）"
+title: "Wang Chen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（陈旺）"
 subtitle: （陈旺）
 
 # Username (this should match the folder name)
