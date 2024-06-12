@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Intern (研究实习员)
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
@@ -66,7 +66,7 @@ email: 'guangzexia@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
 Tingting Hu obtained her Master's Degree in Microbiome Research from Guangzhou Medical University, Guangzhou, China. As a research intern at the Guangzhou State Key Laboratory, she focusing on the field of human disease microbiome. Tingting Hu major in microbiome analysis techniques. In her free time, Tingting Hu enjoys exploring scientific topics and keeping up-to-date with the latest technological innovations related to microbiome research.
