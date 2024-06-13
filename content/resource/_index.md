@@ -12,7 +12,7 @@ type: "widget_page"  # Page type is a Widget Page
 - [**CUT&RUNTools 2.0**](https://github.com/fl-yu/CUT-RUNTools-2.0) (*Bioinformatics*, 2021): A tool for bulk and single-cell CUT&RUN/CUT&Tag data processing and analysis.
 
 ## Database:
-- [**CMCA**](https://yulabgenomics.miracle.ac.cn:9066/cmca/home/): The Co-assayed Multimodal Cell Atlas (CMCA) gathers and organizes diverse co-assayed multimodal datasets, including measurements from single cells spanning the genome, transcriptome, epigenome, and proteome.
+<!-- - [**CMCA**](https://yulabgenomics.miracle.ac.cn:9066/cmca/home/): The Co-assayed Multimodal Cell Atlas (CMCA) gathers and organizes diverse co-assayed multimodal datasets, including measurements from single cells spanning the genome, transcriptome, epigenome, and proteome. -->
 - [**CFEA**](http://www.bio-data.cn/CFEA/) (*Nucleic Acids Research*, 2020): A cell-free epigenome database dedicated to three types of widely adopted epigenetic modifications involved in 27 human diseases.
 
 <!-- 
