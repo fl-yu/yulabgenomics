@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Guangze Xia (夏光泽)
+title: Libo Qiao 
 
 # Username (this should match the folder name)
 authors:
-  - guangze
+  - libo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Intern (研究实习员)
+role: Ph.D. Student
 
 # # Organizations/Affiliations
-# organizations:
-#   - name: Stanford University
+organizations:
+  - name: (乔立博)
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
-bio:  
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # interests:
 #   - Artificial Intelligence
@@ -61,17 +61,25 @@ bio:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'guangzexia@gmail.com'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
-Guangze Xia obtained his Master's degree from the Medicine School at the University of Southampton prior to joining the Yu Lab. He specializes in analyzing Gen/Transcript-omics data and has a keen interest in exploring the applications of machine learning in the field of biology. When he's not working, he enjoys engaging in sports and exploring scientific topics.
+Libo Qiao obtained his Master’s degree from the School of Life Sciences at the University of Science and Technology of China. During his master's degree, he combined bioinformatics and biology experiments to explore the transcriptional regulatory network of glioblastoma. Based on his research interest in developing tools to infer transcriptional regulatory networks, he will continue to pursue his Ph.D. at Yu Lab. He hopes to improve his skills in statistics and deep learning. He hopes that the tools he develops will contribute to the realization of precision medicine. Outside of work, he enjoys badminton and singing.
 
-E-mail：guangzexia@gmail.com
+E-mail：qiao_libo@gzlab.ac.cn
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
+
+<!-- 
+    - Principal Investigators
+    - Researchers
+    - Grad Students
+    - Administration
+    - Visitors
+    - Alumni -->

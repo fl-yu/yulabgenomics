@@ -17,9 +17,10 @@ organizations:
 bio: My research interests include functional genomics and bioinformatics.
 
 interests:
-  - Functional Genomics
-  - Single Cell Genomics
-  - Artificial Intelligence
+  - AI algorithms for genomics
+  - Gene regulation in health and disease using functional genomics and single-cell multiomics
+  - Prevention and diagnosis of respiratory virus infections and transmission
+  - Disease susceptibility of COPD and other lung diseases
 
 education:
   courses:
@@ -83,11 +84,7 @@ user_groups:
   - PI
 ---
 
-I’m a Postdocteral Research Scientist at Harvard Medical School. My research interests are mainly in bioinformatics, single-cell genomics, deep learning, and human (epi)genetics.
-
-I completed my Ph.D. of Bioinformatics from Harbin Medical University (2018). In early 2020, I joined in Guocheng Yuan lab at Dana-Farber Cancer Institute and Vijay Sankaran lab at Boston Children’s Hospital/Broad Institute as a research fellow, repectively, where I worked on algorithm and tool development in terms of single-cell genomics and human genetics.
-
-I started my lab at the Guangzhou National Laboratory in 2022. Our research focuses on the development and innovation of algorithms, computational tools, and resources at the intersection of genomics and artificial intelligence.
+I completed my Ph.D. of Bioinformatics from Harbin Medical University (2018). I joined in Guocheng Yuan lab at Dana-Farber Cancer Institute and Vijay Sankaran lab at Boston Children’s Hospital/Broad Institute as a research fellow, repectively, where I worked on algorithm and tool development in terms of single-cell genomics and human genetics. I started my lab at the Guangzhou National Laboratory in 2022. Our research focuses on the development and innovation of algorithms, computational tools, and resources at the intersection of genomics and artificial intelligence.
 
 **Brief introduction in Chinese**  
 于福龙，广州国家实验室研究员，广州医科大学特聘教授，呼吸疾病全国重点实验室PI，入选国家重大人才项目（青年）和广东省杰出青年项目。博士毕业于哈尔滨医科大学，后在美国哈佛医学院Dana Farber Cancer Institute和Broad Institute从事博后研究工作。发表研究论文30余篇，其中以第一或通讯作者在*Nature Biotechnology*和*Nature Immunology*等在内的专业杂志发表论文10篇，H index=17。受邀作为独立审稿人在*Nature Communications*，*Genome Biology*和*eLife*等杂志评审论文。主持国家实验室自立项目，作为骨干参与科技部重点研发计划一项。

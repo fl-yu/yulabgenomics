@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Qinhao Zhang (张钦豪)
+title: Mengmeng Liu
 
 # Username (this should match the folder name)
 authors:
-  - qinhao
+  - mengmeng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Research Assistant
 
 # # Organizations/Affiliations
-# organizations:
-#   - name: Stanford University
+organizations:
+  - name: (刘梦梦)
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  
 
 # interests:
 #   - Artificial Intelligence
@@ -61,25 +61,17 @@ role: Ph.D. Student
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ' liu_mengmeng@gzlab.ac.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Researchers
 ---
 
-After earning his master's degree at Guangzhou Medical University, Qinhao Zhang joined the Yu Lab. He has a keen interest in data analysis and focuses on applying deep learning and single-cell multi-omics technologies to tackle specific biological challenges. In his spare time, he enjoys pursuing his hobbies of photography and basketball.
+Mengmeng Liu is a Master's graduate in Animal Husbandry from the College of Animal Science and Technology at Qingdao Agricultural University, specializing in Genetic Breeding and Reproduction. Her research thesis was dedicated to the single-cell transcriptome analysis of the reproductive systems of pigs, mice, and donkeys, with a particular focus on comparing the single-cell profiles of testes and epididymides across these species. Upon completing her studies, Mengmeng joined Yu lab as a Research Intern. She is currently involved in a project focused on the processing of single-cell ATAC datasets, where she contributes to the development of genomic research.
 
-E-mail：qinh2018@163.com
+E-mail:  liu_mengmeng@gzlab.ac.cn
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
-
-<!-- 
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
-    - Alumni -->

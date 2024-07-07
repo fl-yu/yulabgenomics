@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Cuiyi Yang（杨翠怡）
+title: Shiwei Zhu Ph.D.
 
 # Username (this should match the folder name)
 authors:
-  - cuiyi
+  - shiwei
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lab Manager
+role: Postdoctoral Researcher
 
 # # Organizations/Affiliations
-# organizations:
-#   - name: Stanford University
+organizations:
+  - name: （朱士微）
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
@@ -61,17 +61,17 @@ role: Lab Manager
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'wwzpll@163.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lab manager
+  - Researchers
 ---
 
-Having graduated with a bachelor's degree in Material Forming and Control Engineering (Teacher Training) from GuangDong Polytechnic Normal University, Cuiyi Yang now works as the lab manager in the Yu Lab. Prior to joining the Yu Lab, she spent nine months as a research assistant at South China University of Technology, acquiring valuable scientific research knowledge and skills.
+Shiwei Zhu studied at College of Bioinformatics Science and Technology of Harbin Medical University, where she completed her Ph.D. under the supervision of Shujun Chen. In 2024, she earned her Doctor of Medicine degree and joined the Yu lab for postdoctoral research. Her current research focuses on utilizing artificial intelligence techniques and spatial transcriptomics information for uncovering the molecular basis of respiratory diseases.
 
-E-mail：cuiyi-yang@foxmail.com
+E-mail：wwzpll@163.com
 
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 

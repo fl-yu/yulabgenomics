@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Faming Chen Ph.D.（陈法铭）
+title: Yongjuan Tang
 
 # Username (this should match the folder name)
 authors:
-  - faming
+  - yongjuan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Research Assistant
 
 # # Organizations/Affiliations
-# organizations:
-#   - name: Stanford University
+organizations:
+  - name: (唐永娟)
 #     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  
 
 # interests:
 #   - Artificial Intelligence
@@ -61,7 +61,7 @@ role: Postdoctoral Researcher
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'chen_faming@gzlab.ac.cn'
+email: 'tang_yongjuan@gzlab.ac.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,10 +69,9 @@ user_groups:
   - Researchers
 ---
 
-Faming Chen received his Ph.D. from the University of Chinese Academy of Sciences. During Ph.D. study, his research area was computational biology, and his research direction was to predict the functions of hub transcription factors through gene regulatory network reconstruction and analysis. After graduation, he joined Yu lab for postdoctoral research, and his current research direction is deep learning modeling of DNA sequence, which is applied to the analysis of the biological effects of DNA variants associated with human diseases.
+Tang Yongjuan graduated from Harbin Medical University with a master degree in Biomedical engineering. Her research direction is lncRNA regulatory mechanism research in pan-cancer single cell transcriptomics.After graduation, she joined Yu lab as a research intern to continue her work and study.
 
-E-mail：chen_faming@gzlab.ac.cn
-
+E-mail: tang_yongjuan@gzlab.ac.cn
 <!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
