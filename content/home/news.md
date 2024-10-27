@@ -23,15 +23,14 @@ design:
   columns: '1'
 ---
 
+### 09/12/2024 
+Our collaboration paper was published in *Nature Communications* !
+
 ### 03/27/2024 
 Our paper was published in *Cell Genomics* !
 
 ### 01/23/2024 
 Our collaboration paper was published in *Nature* !
-
-### 10/10/2023 
-Our collaboration paper was published in *Cancer Cell* !
-
 
 {{% cta cta_link="./news/" cta_text="previous News →" %}}
 <!-- 

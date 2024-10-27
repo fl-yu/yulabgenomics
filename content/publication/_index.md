@@ -12,9 +12,11 @@ type: "widget_page"  # Page type is a Widget Page
 <!-- Major Publications (A Yu Lab member is the ^(co-)first or *(co-)corresponding author) -->
 
 ##### 2024
+[*Context-aware single-cell multiomics approach identifies cell-type-specific lung cancer susceptibility genes.*](https://www.nature.com/articles/s41467-024-52356-9)  
+Long, E., Yin, J., Shin, J., Li, Y., Li, B., Kane, A., Patel, L. D., Sun, N., Wang, C., Luong, TG., Xia, S., Han, W., Byun, S., Zhang, C., Zhao, D., Landi Rothman, E., Lan, E., Chang, C., **<ins>Yu, F.</ins>**, Christopher, N., Shi, J. J., Lee, X., Young, Kim.\*, Chiang, C.\*, Choi, J.\*.  ***Nature Commnications*** 
+
 [*A noncoding regulatory variant in IKZF1 increases acute lymphoblastic leukemia risk in Hispanic/Latino children.*](https://pubmed.ncbi.nlm.nih.gov/38537633)  
 Smith, A.#\*, Wahlster, L.#, Jeon, S.#, Kachuri, L.,Black, S., Langie, J., Cato, L. D., Nakatsuka, N., Chan, T.-F., <ins>Xia, G.</ins>, Mazumder, S., Yang, W., Gazal, S., Eng, C., Hu, D., González Burchard, E., Ziv, E., Metayer, C., Mancuso, N., Yang, J. J., Ma, X., Wiemels, J. L., **<ins>Yu, F.</ins>**^, Chiang, C.^, V., G.\*^.  ***Cell Genomics*** 
-
 
 [*Deciphering cell states and genealogies of human hematopoiesis.*](https://www.nature.com/articles/s41586-024-07066-z)  
 Weng, C., **<ins>Yu, F.</ins>**, Yang, D., Poeschla,, M., Liggett, L. A., Jones, M. G., Qiu, X., Wahlster, L., Caulier, A., Hussmann, J. A., Schnell, A., Yost, K. E., Koblan, L. W., Martin-Rufino, J. D., Min, J., Hammond, A., Ssozi, D., Bueno, R., Mallidi, H., Kreso, A., Escabi, J., Rideout, W. M. III, Jacks, T., Hormoz, S., van Galen, P., Weissman, J. S., Sankaran, V. G.\*.  ***Nature*** 
