@@ -5,8 +5,8 @@ date: "2022-12-09T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
-### 09/12/2024 
-Several lab members attended the 2024 World Life Science Conference at Hainan, China. 
+### 10/18/2024 
+Several lab members attended the 2024 World Life Science Conference held in Hainan, China. 
 ![ccccc](20241018-1.jpg) 
 
 ### 09/12/2024 
