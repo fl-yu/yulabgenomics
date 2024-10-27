@@ -26,11 +26,12 @@ design:
 ### 09/12/2024 
 Our collaboration paper was published in *Nature Communications* !
 
+### 08/15/2024 
+Our lab got funded from the General Fund of the National Natural Science Foundation of China (NSFC) 2025!
+
 ### 03/27/2024 
 Our paper was published in *Cell Genomics* !
 
-### 01/23/2024 
-Our collaboration paper was published in *Nature* !
 
 {{% cta cta_link="./news/" cta_text="previous News →" %}}
 <!-- 
