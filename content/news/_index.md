@@ -6,6 +6,10 @@ type: "widget_page"  # Page type is a Widget Page
 ---
 
 ### 09/12/2024 
+Several lab members attended the 2024 World Life Science Conference at Hainan, China. 
+![ccccc](20241018-1.jpg) 
+
+### 09/12/2024 
 Our collaboration paper was published in *Nature Communications* !
 
 ### 08/15/2024 
