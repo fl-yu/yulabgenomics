@@ -87,11 +87,11 @@ user_groups:
 I completed my Ph.D. of Bioinformatics from Harbin Medical University (2018). I joined in Guocheng Yuan lab at Dana-Farber Cancer Institute and Vijay Sankaran lab at Boston Children’s Hospital/Broad Institute as a research fellow, repectively, where I worked on algorithm and tool development in terms of single-cell genomics and human genetics. I started my lab at the Guangzhou National Laboratory in 2022. Our research focuses on the development and innovation of algorithms, computational tools, and resources at the intersection of genomics and artificial intelligence.
 
 **Brief introduction in Chinese**  
-于福龙，广州国家实验室研究员，广州医科大学特聘教授，呼吸疾病全国重点实验室PI，入选国家海外高层次人才青年项目和广东省杰出青年项目。博士毕业于哈尔滨医科大学，后在美国哈佛医学院Dana Farber Cancer Institute和Broad Institute从事博后研究工作。发表研究论文30余篇，其中以第一或通讯作者在*Nature Biotechnology*和*Nature Immunology*等在内的专业杂志发表论文10篇，H index=17。受邀作为独立审稿人在*Nature Communications*，*Genome Biology*和*eLife*等杂志评审论文。主持国家实验室自立项目，作为骨干参与科技部重点研发计划一项。
+于福龙，广州国家实验室研究员，广州医科大学特聘教授，呼吸疾病全国重点实验室PI，入选国家海外高层次人才青年项目和广东省杰出青年项目。博士毕业于哈尔滨医科大学，后在美国哈佛医学院Dana Farber Cancer Institute和Broad Institute从事博后研究工作。发表研究论文30余篇，其中以第一或通讯作者在*Nature Biotechnology*和*Nature Immunology*等在内的专业杂志发表论文10篇，H index=17。受邀作为独立审稿人在*Nature Communications*，*Genome Biology*和*eLife*等杂志评审论文。
 
 - 主持/参与科研项目：  
-科技部国家实验室重大科研项目（主持；子课题）  
-国家自然科学基金面上项目（主持） 
+科技部国家实验室重大科研项目（项目负责人；子课题负责人）  
+国家自然科学基金面上项目（项目负责人） 
 科技部重点研发计划BT&IT专项（骨干）   
 
 - 人才荣誉称号：  
@@ -99,6 +99,8 @@ I completed my Ph.D. of Bioinformatics from Harbin Medical University (2018). I 
 广东省自然科学基金杰出青年项目  
 
 - 兼职：  
+中国遗传学会大人群健康与常见病专业委员会委员
+中国微生物学会智能计算专业委员会委员
 广东省呼吸与健康学会干细胞与再生医学专委会委员  
 *BMC Bioinformatics* Editorial Board Member  
-The Human Cell Atlas Member  
+The Human Cell Atlas (HCA) Member  
