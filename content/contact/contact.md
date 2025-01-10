@@ -61,9 +61,9 @@ Primary contact: Fulong Yu
 
 Email: yu_fulong@gzlab.ac.cn; yufulong421@gmail.com
 
-Administrative contact: Wang Chen
+Administrative contact: Yating Wei
 
-Email: chen_wang01@gzlab.ac.cn
+Email: wei_yating@gzlab.ac.cn
 
 GENERAL SEARCH: 
 We are always looking for great and highly motiviated people to join us.   
