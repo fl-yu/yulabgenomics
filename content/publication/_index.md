@@ -11,6 +11,10 @@ type: "widget_page"  # Page type is a Widget Page
 \# or ^ denotes authors contribute equally, * denotes (co-)corresponding author and \_ \_ denotes a lab member. An up-to-date list of all publications is available on [Google Scholar](https://scholar.google.com/citations?user=sslV11MAAAAJ).
 <!-- Major Publications (A Yu Lab member is the ^(co-)first or *(co-)corresponding author) -->
 
+##### 2025
+[*Genomic and phenotypic correlates of mosaic loss of chromosome Y in blood.*](https://www.sciencedirect.com/science/article/pii/S0002929724004567#abs0010)  
+Jakubek, Y., Ma, X., Stilp, A., **<ins>Yu, F.</ins>**, et al., , Auer, P.\*.  ***The American Journal of Human Genetics*** 
+
 ##### 2024
 [*Context-aware single-cell multiomics approach identifies cell-type-specific lung cancer susceptibility genes.*](https://www.nature.com/articles/s41467-024-52356-9)  
 Long, E., Yin, J., Shin, J., Li, Y., Li, B., Kane, A., Patel, L. D., Sun, N., Wang, C., Luong, TG., Xia, S., Han, W., Byun, S., Zhang, C., Zhao, D., Landi Rothman, E., Lan, E., Chang, C., **<ins>Yu, F.</ins>**, Christopher, N., Shi, J. J., Lee, X., Young, Kim.\*, Chiang, C.\*, Choi, J.\*.  ***Nature Commnications*** 
