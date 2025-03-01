@@ -28,7 +28,7 @@ design:
   show_social: false
 ---
 
-
+<!-- 
 **Alumini**
 
 | Name                 |     Position in Lab       |  Current Position |
@@ -36,3 +36,4 @@ design:
 | Qi Wang              |  Intern Student           | $1600             |
 | col 2 is             |    centered               |   $12             |
 | col 3 is             | right-aligned             |    $1             |
+ -->
