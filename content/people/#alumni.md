@@ -14,3 +14,14 @@ type: "widget_page"  # Page type is a Widget Page
 | col 1 is             |  left-aligned             | $1600             |
 | col 2 is             |    centered               |   $12             |
 | col 3 is             | right-aligned             |    $1             |
+
+
+<!-- 
+**Alumini**
+
+| Name                 |     Position in Lab       |  Current Position |
+|----------------------|:-------------------------:|------------------:|
+| Qi Wang              |  Intern Student           | $1600             |
+| col 2 is             |    centered               |   $12             |
+| col 3 is             | right-aligned             |    $1             |
+ -->
