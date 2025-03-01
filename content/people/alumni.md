@@ -8,13 +8,26 @@ type: "widget_page"  # Page type is a Widget Page
 ---
 
 
-
-| Tables               |      Are                  |  Cool             |
-|----------------------|:-------------------------:|------------------:|
-| col 1 is             |  left-aligned             | $1600             |
-| col 2 is             |    centered               |   $12             |
-| col 3 is             | right-aligned             |    $1             |
-
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ddd; padding: 8px;">Name</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Years</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Position in Lab</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Current Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Qi Wang</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">2024-2025</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Intern Student</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Graduate Student in Kunming Medical University</td>
+    </tr>
+   
+    
+  </tbody>
+</table>
 
 <!-- 
 **Alumini**
