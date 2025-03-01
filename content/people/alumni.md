@@ -11,18 +11,18 @@ type: "widget_page"  # Page type is a Widget Page
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr style="background-color: #f2f2f2;">
-      <th style="border: 1px solid #ddd; padding: 8px;">Name</th>
-      <th style="border: 1px solid #ddd; padding: 8px;">Years</th>
-      <th style="border: 1px solid #ddd; padding: 8px;">Position in Lab</th>
-      <th style="border: 1px solid #ddd; padding: 8px;">Current Position</th>
+      <th style="border: 0.5px solid #ddd; padding: 20px;">Name</th>
+      <th style="border: 0.5px solid #ddd; padding: 20px;">Years</th>
+      <th style="border: 0.5px solid #ddd; padding: 20px;">Position in Lab</th>
+      <th style="border: 0.5px solid #ddd; padding: 20px;">Current Position</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Qi Wang</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">2024-2025</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Intern Student</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Graduate Student in Kunming Medical University</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px;">Qi Wang</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px;">2024-2025</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px;">Intern Student</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px;">Graduate Student at Kunming Medical University</td>
     </tr>
    
     
