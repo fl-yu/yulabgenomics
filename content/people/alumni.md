@@ -11,18 +11,18 @@ type: "widget_page"  # Page type is a Widget Page
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr style="background-color: #f2f2f2;">
-      <th style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: Arial, sans-serif;">Name</th>
-      <th style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: Arial, sans-serif;">Years</th>
-      <th style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: Arial, sans-serif;">Position in Lab</th>
-      <th style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: Arial, sans-serif;">Current Position</th>
+      <th style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif;">Name</th>
+      <th style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif;">Years</th>
+      <th style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif;">Position in Lab</th>
+      <th style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif;">Current Position</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: Arial, sans-serif;">Qi Wang</td>
-      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: Arial, sans-serif;">2024-2025</td>
-      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: Arial, sans-serif;">Intern Student</td>
-      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: Arial, sans-serif;">Graduate Student at Kunming Medical University</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif;">Qi Wang</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif;">2024-2025</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif;">Intern Student</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif;">Graduate Student at Kunming Medical University</td>
     </tr>
    
     
