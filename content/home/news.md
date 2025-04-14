@@ -22,6 +22,8 @@ design:
   view: 3
   columns: '1'
 ---
+### 04/12/2025 
+Several lab members attended The 4th Chinese Intelligent Health & Bioinformatics Conference, IHB2025 held in Harbin, China. 
 
 ### 01/15/2025 
 Our collaboration paper was published in *The American Journal of Human Genetics* !
