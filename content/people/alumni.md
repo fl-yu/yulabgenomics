@@ -25,13 +25,13 @@ type: "widget_page"  # Page type is a Widget Page
       <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Graduate Student at Kunming Medical University</td>
     </tr>
    
-   <tr>
+<!--    <tr>
       <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Zhouwu Liu</td>
       <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">2024-2025</td>
       <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Research Assistant</td>
       <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;"> </td>
     </tr>
-    
+    --> 
   </tbody>
 </table>
 
