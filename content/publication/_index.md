@@ -11,6 +11,14 @@ type: "widget_page"  # Page type is a Widget Page
 \# or ^ denotes authors contribute equally, * denotes (co-)corresponding author and \_ \_ denotes a lab member. An up-to-date list of all publications is available on [Google Scholar](https://scholar.google.com/citations?user=sslV11MAAAAJ).
 <!-- Major Publications (A Yu Lab member is the ^(co-)first or *(co-)corresponding author) -->
 
+##### *Preprint*
+[*CAPTAIN: A multimodal foundation model pretrained on co-assayed single-cell RNA and protein.*](https://www.biorxiv.org/content/10.1101/2025.07.07.663366v1)  
+Ji, B.#, <ins>Hu, T.#</ins>, <ins>Wang, J.#</ins>, <ins>Liu, M.</ins>, Xu, L., <ins>Zhang, Q.</ins>, <ins>Zhong, S.</ins>, <ins>Qiao, L.</ins>, Zhang, Y.\*^, Peng, S.\*^, **<ins>Yu, F</ins>\*^**.
+
+[*Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models.*](https://arxiv.org/abs/2507.16801)  
+<ins>Lin, Y.#</ins>, <ins>Fang, Y.#</ins>, <ins>Zhang, Z.#</ins>, Liu, Z., <ins>Zhong, S.</ins>, Wang, Z.\*^, **<ins>Yu, F.\*^</ins>**
+
+
 ##### 2025
 [*Genomic and phenotypic correlates of mosaic loss of chromosome Y in blood.*](https://www.sciencedirect.com/science/article/pii/S0002929724004567#abs0010)  
 Jakubek, Y., Ma, X., Stilp, A., **<ins>Yu, F.</ins>**, et al., , Auer, P.\*.  ***The American Journal of Human Genetics*** 
