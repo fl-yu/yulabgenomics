@@ -13,10 +13,10 @@ type: "widget_page"  # Page type is a Widget Page
 
 ##### *Preprint*
 [*CAPTAIN: A multimodal foundation model pretrained on co-assayed single-cell RNA and protein.*](https://www.biorxiv.org/content/10.1101/2025.07.07.663366v1)  
-Ji, B.#, <ins>Hu, T.#</ins>, <ins>Wang, J.#</ins>, <ins>Liu, M.</ins>, Xu, L., <ins>Zhang, Q.</ins>, <ins>Zhong, S.</ins>, <ins>Qiao, L.</ins>, Zhang, Y.\*^, Peng, S.\*^, **<ins>Yu, F</ins>\*^**.
+Ji, B.#, <ins>Hu, T.</ins>#, <ins>Wang, J.</ins>#, <ins>Liu, M.</ins>, Xu, L., <ins>Zhang, Q.</ins>, <ins>Zhong, S.</ins>, <ins>Qiao, L.</ins>, Zhang, Y.\*, Peng, S.\*, **<ins>Yu, F</ins>\***.
 
 [*Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models.*](https://arxiv.org/abs/2507.16801)  
-<ins>Lin, Y.#</ins>, <ins>Fang, Y.#</ins>, <ins>Zhang, Z.#</ins>, Liu, Z., <ins>Zhong, S.</ins>, Wang, Z.\*^, **<ins>Yu, F.\*^</ins>**
+<ins>Lin, Y.</ins>#, <ins>Fang, Y.</ins>#, <ins>Zhang, Z.</ins>#, Liu, Z., <ins>Zhong, S.</ins>, Wang, Z.\*, **<ins>Yu, F</ins>\***.
 
 
 ##### 2025
