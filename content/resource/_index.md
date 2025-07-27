@@ -5,8 +5,11 @@ date: "2022-12-09T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
+[**Our lab github page**](https://github.com/Yu-Lab-Genomics)
 
 ## Tool:
+- [**UTR-STCNet**](https://github.com/Yu-Lab-Genomics/UTR-STCNet): A Transformer-based architecture for flexible and biologically grounded modeling of variable-length 5'UTRs.
+- [**CAPTAIN**](https://github.com/Yu-Lab-Genomics/CAPTAIN): A multimodal foundation model pretrained on co-assayed single-cell RNA and protein.
 - [**HemeMap**](https://github.com/sankaranlab/mecom_var) (*Nature Immunology*, 2022): A computational framework to identify putative cisREs and cell-type-specific cisRE-gene interactions by integrating multiomic data from 18 hematopoietic cell populations.
 - [**SCAVENGE**](https://github.com/sankaranlab/SCAVENGE) (*Nature Biotechnology*, 2022): An R package for dentifying genetic trait/phenotype relevant cell type/state at single cell resolution.
 - [**CUT&RUNTools 2.0**](https://github.com/fl-yu/CUT-RUNTools-2.0) (*Bioinformatics*, 2021): A tool for bulk and single-cell CUT&RUN/CUT&Tag data processing and analysis.
