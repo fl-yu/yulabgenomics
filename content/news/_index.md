@@ -5,6 +5,11 @@ date: "2022-12-09T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
+### 08/27/2025 
+Farewell meeting for Jianhong and Jiaheng. It has been a while since we have a lab photo last time! 
+![cc](20250827-1.jpg) 
+![cc](20250827-2.jpg) 
+
 ### 04/12/2025 
 Several lab members attended The 4th Chinese Intelligent Health & Bioinformatics Conference, IHB2025 held in Harbin, China. 
 ![cc](20250412-1.jpg) 

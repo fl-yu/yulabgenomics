@@ -99,8 +99,9 @@ I completed my Ph.D. of Bioinformatics from Harbin Medical University (2018). I 
 广东省自然科学基金杰出青年项目  
 
 - 学术组织任职：  
-中国遗传学会大人群健康与常见病专业委员会委员  
-中国微生物学会智能计算专业委员会委员  
+中国遗传学会大人群健康与常见病专委会副主任委员  
+中国微生物学会智能计算专委会委员  
+中国生物信息学学会（筹）重大疾病组学信息学专委会委员  
 广东省呼吸与健康学会干细胞与再生医学专委会委员  
 *BMC Bioinformatics* Editorial Board Member  
 The Human Cell Atlas (HCA) Member  

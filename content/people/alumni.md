@@ -29,7 +29,14 @@ type: "widget_page"  # Page type is a Widget Page
       <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Mengmeng Liu</td>
       <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">2024-2025</td>
       <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Research Assistant</td>
-      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Graduate Student at Harbin Medical University</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Ph.D. Student at Harbin Medical University</td>
+    </tr>
+
+   <tr>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Jianhong Liu</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">2024-2025</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Research Assistant</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Ph.D. Student at South China Agricultural University</td>
     </tr>
 
   </tbody>
