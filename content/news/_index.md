@@ -6,7 +6,7 @@ type: "widget_page"  # Page type is a Widget Page
 ---
 
 ### 08/27/2025 
-Farewell meeting for Jianhong and Jiaheng. It has been a while since we have a lab photo last time! 
+We had a farewell meeting for Jianhong and Jiaheng. It’s been quite some time since our last lab photo, so we happily captured a new one together!  
 ![cc](20250827-1.jpg) 
 ![cc](20250827-2.jpg) 
 

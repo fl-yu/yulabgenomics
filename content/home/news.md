@@ -23,7 +23,7 @@ design:
   columns: '1'
 ---
 ### 08/27/2025 
-We will have a farewell meeting for Jianhong and Jiaheng. 
+We had a farewell meeting for Jianhong and Jiaheng. 
 
 ### 04/12/2025 
 Several lab members attended The 4th Chinese Intelligent Health & Bioinformatics Conference, IHB2025 held in Harbin, China. 
