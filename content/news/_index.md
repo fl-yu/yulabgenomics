@@ -5,6 +5,12 @@ date: "2022-12-09T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
+### 09/21/2025 
+We were invited to release our CAPTAIN model at The 18th PUJIANG Innovation Forum. 
+![cc](20250921-1.jpg) 
+![cc](20250921-2.jpg) 
+[news](https://mp.weixin.qq.com/s/a1gPAXvQAN-cCiffdgg01A)
+
 ### 08/27/2025 
 We had a farewell meeting for Jianhong and Jiaheng. It’s been quite some time since our last lab photo, so we happily captured a new one together!  
 ![cc](20250827-1.jpg) 
