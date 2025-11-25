@@ -22,14 +22,14 @@ design:
   view: 3
   columns: '1'
 ---
-### 09/21/2025 
-We were invited to release our CAPTAIN model at The 18th PUJIANG Innovation Forum. 
+### 11/11/2025 
+Lab BBQ!
 
-### 08/27/2025 
-We had a farewell meeting for Jianhong and Jiaheng. 
+### 20/10/2025 
+Several lab members attended The Chinese Society of Genetics National Conference 2025, held in Hefei, China.  
 
-### 04/12/2025 
-Several lab members attended The 4th Chinese Intelligent Health & Bioinformatics Conference, IHB2025 held in Harbin, China. 
+### 08/10/2025 
+Several lab members attended The 14th National Conference on Bioinformatics and Systems Biology Conference, held in Nanning, China.
 
 
 <!-- ### 08/15/2024 

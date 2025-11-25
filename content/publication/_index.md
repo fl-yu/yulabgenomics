@@ -12,6 +12,9 @@ type: "widget_page"  # Page type is a Widget Page
 <!-- Major Publications (A Yu Lab member is the ^(co-)first or *(co-)corresponding author) -->
 
 ##### *Preprint*
+[*Dissecting sequence determinants of DNA methylation and in silico perturbation.*](https://www.biorxiv.org/content/10.1101/2025.11.20.689274v1)  
+<ins>Chen, F.#</ins>, <ins>Zhang, Q.</ins>#, <ins>Zhu, S.</ins>#, Liang, J.#, <ins>Zhong, S.</ins>, <ins>Zhang, Z.</ins>, Su, J., Guo, Y.\*, Fan, X.\*, Zhang, Y.\*, **<ins>Yu, F</ins>\***.
+
 [*CAPTAIN: A multimodal foundation model pretrained on co-assayed single-cell RNA and protein.*](https://www.biorxiv.org/content/10.1101/2025.07.07.663366v1)  
 Ji, B.#, <ins>Hu, T.</ins>#, <ins>Wang, J.</ins>#, <ins>Liu, M.</ins>, Xu, L., <ins>Zhang, Q.</ins>, <ins>Zhong, S.</ins>, <ins>Qiao, L.</ins>, Zhang, Y.\*, Peng, S.\*, **<ins>Yu, F</ins>\***.
 
