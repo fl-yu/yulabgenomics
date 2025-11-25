@@ -12,11 +12,10 @@ Our team spent a relaxing afternoon on Seagull Island for our lab retreat, with 
 ![cc](20251111-3.jpg) 
 ![cc](20251111-4.jpg) 
 ![cc](20251111-5.jpg) 
-![cc](20251111-6.jpg) 
+![cc](20251111-6.png) 
 
 ### 20/10/2025 
 Several lab members attended The Chinese Society of Genetics National Conference 2025, held in Hefei, China.  
-![cc](.jpg) 
 ![cc](20251020-1.jpg) 
 
 ### 08/10/2025 
