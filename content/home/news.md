@@ -24,16 +24,13 @@ design:
 ---
 
 ### 02/21/2026 
-We are delighted to share that our recent work has been published in *npj Digital Medicine*, *BMC Medicin*, and *BIBM*.
+We are delighted to share that our recent work has been published in *npj Digital Medicine*, *BMC Medicine*, and *BIBM*.
 
 ### 11/11/2025 
 Lab BBQ!
 
 ### 20/10/2025 
 Several lab members attended The Chinese Society of Genetics National Conference 2025, held in Hefei, China.  
-
-### 08/10/2025 
-Several lab members attended The 14th National Conference on Bioinformatics and Systems Biology Conference, held in Nanning, China.
 
 
 <!-- ### 08/15/2024 
