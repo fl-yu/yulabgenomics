@@ -22,6 +22,10 @@ design:
   view: 3
   columns: '1'
 ---
+
+### 02/21/2026 
+We are delighted to share that our recent work has been published in *npj Digital Medicine*, *BMC Medicin*, and *BIBM*.
+
 ### 11/11/2025 
 Lab BBQ!
 

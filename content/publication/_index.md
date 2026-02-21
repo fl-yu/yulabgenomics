@@ -18,11 +18,20 @@ type: "widget_page"  # Page type is a Widget Page
 [*CAPTAIN: A multimodal foundation model pretrained on co-assayed single-cell RNA and protein.*](https://www.biorxiv.org/content/10.1101/2025.07.07.663366v1)  
 Ji, B.#, <ins>Hu, T.</ins>#, <ins>Wang, J.</ins>#, <ins>Liu, M.</ins>, Xu, L., <ins>Zhang, Q.</ins>, <ins>Zhong, S.</ins>, <ins>Qiao, L.</ins>, Zhang, Y.\*, Peng, S.\*, **<ins>Yu, F</ins>\***.
 
-[*Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models.*](https://arxiv.org/abs/2507.16801)  
-<ins>Lin, Y.</ins>#, <ins>Fang, Y.</ins>#, <ins>Zhang, Z.</ins>#, Liu, Z., <ins>Zhong, S.</ins>, Wang, Z.\*, **<ins>Yu, F</ins>\***.
+[*Disentangled multimodal evolutionary representations for cross-virus predictive modeling of antigenic change.*](https://www.biorxiv.org/content/10.64898/2026.02.12.705501v1)  
+<ins>Zhang, Z.</ins>#, <ins>Lin, Y.</ins>#,<ins>Zhong, S.</ins>, Zhou, P., Li, Y. & **<ins>Yu, F\***.
 
+##### 2026
+[*Explainable AI multiomics analysis reveals shared and divergent host responses in COVID-19 and influenza.*](https://www.nature.com/articles/s41746-025-02291-w)  
+Zhang, Y., Zhang, L., <ins>Zhang, Z.</ins>, <ins>Lin, Y.</ins>, <ins>Jiang, Z.</ins>, **<ins>Yu, F.</ins>\***.  ***npj Digital Medicine*** 
 
 ##### 2025
+[*Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models.*](https://www.computer.org/csdl/proceedings-article/bibm/2025/11356249/2e1iRdvEwKc)  
+<ins>Lin, Y.</ins>#, <ins>Fang, Y.</ins>#, <ins>Zhang, Z.</ins>#, Liu, Z., <ins>Zhong, S.</ins>, Wang, Z.\*, **<ins>Yu, F</ins>\***. ***2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*** 
+
+[*Ad5-boosted COVID-19 vaccine reduces symptomatic BA. 5 infection via cross-neutralizing antibodies and NK cell immunity.*](https://www.computer.org/csdl/proceedings-article/bibm/2025/11356249/2e1iRdvEwKc)  
+Cui, T., Liu, S., Wang, T., Liu, Y., Liang, X., <ins>Chen, F.</ins>, Huang, M., Su, X., Song, T., Su, J., Deng, S., Zhao, J.\*, **<ins>Yu, F.</ins>\*** & Wang, Z.\*  *** BMC Medicine *** 
+
 [*Genomic and phenotypic correlates of mosaic loss of chromosome Y in blood.*](https://www.sciencedirect.com/science/article/pii/S0002929724004567#abs0010)  
 Jakubek, Y., Ma, X., Stilp, A., **<ins>Yu, F.</ins>**, et al., , Auer, P.\*.  ***The American Journal of Human Genetics*** 
 

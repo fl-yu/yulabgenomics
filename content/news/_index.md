@@ -4,6 +4,8 @@ summary: "Hello!"  # Add a page description.
 date: "2022-12-09T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
+### 02/21/2026 
+We are delighted to share that our recent work has been published in *npj Digital Medicine*, *BMC Medicin*, and *BIBM*.
 
 ### 11/11/2025 
 Our team spent a relaxing afternoon on Seagull Island for our lab retreat, with amazing food, our star chefs, and plenty of laughter, songs, and unforgettable moments. (These are only a small selection of the many photos we captured.)
