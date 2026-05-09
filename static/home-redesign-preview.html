@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yu Lab Homepage Redesign Preview</title>
+  <style>
+    body{font-family:Inter,Arial,sans-serif;margin:0;background:#f4f7fd;color:#1f2f52}
+    .hero{display:grid;grid-template-columns:1.1fr 1fr;gap:2rem;align-items:center;padding:4rem 7vw;background:linear-gradient(120deg,#eef3ff,#f8fcff)}
+    .hero h1{font-size:clamp(2rem,3.6vw,3.2rem);margin:0 0 1rem}
+    .hero p{line-height:1.7;color:#384f7b}
+    .hero img{width:100%;border-radius:18px;box-shadow:0 16px 40px rgba(40,70,130,.15)}
+    .btn{display:inline-block;background:#3f65d8;color:#fff;padding:.65rem 1rem;border-radius:999px;text-decoration:none;font-weight:600}
+    .wrap{max-width:1200px;margin:0 auto;padding:2.5rem 7vw}
+    h2{text-align:center;margin:.5rem 0}
+    .sub{text-align:center;color:#5c6f97;margin:0 0 1rem}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.1rem}
+    .card{background:#fff;border:1px solid #e5ecfb;border-radius:16px;padding:1rem;box-shadow:0 10px 24px rgba(25,56,115,.08)}
+    .card img{width:100%;border-radius:10px}
+    .tags{display:flex;flex-wrap:wrap;gap:.45rem;margin-top:.6rem}
+    .tags span{background:#edf3ff;color:#355082;border-radius:999px;padding:.2rem .55rem;font-size:.78rem}
+    .metrics .card{text-align:center;padding:1.2rem}
+    .value{font-weight:700;font-size:1.25rem}
+    .label{color:#5c6f97;margin-top:.35rem}
+    @media (max-width:900px){.hero{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <div>
+      <h1>Integrative Computational Genomics</h1>
+      <p>We combine <b>single-cell</b>, <b>spatial omics</b>, and <b>machine learning</b> to decode disease mechanisms and accelerate precision medicine.</p>
+      <p>我们结合<b>单细胞组学</b>、<b>空间组学</b>与<b>机器学习</b>，解析疾病机制并推动精准医学转化。</p>
+      <a class="btn" href="#">Explore Research →</a>
+    </div>
+    <img src="/media/welcome4.jpg" alt="hero"/>
+  </section>
+
+  <section class="wrap">
+    <h2>Research Directions</h2>
+    <p class="sub">Algorithm innovation × biomedical translation</p>
+    <div class="grid">
+      <div class="card"><img src="/media/research-singlecell.svg"/><h3>Single-cell & Cellular State Mapping</h3><p>Trajectory and disease microenvironment reconstruction from single-cell and spatial data.</p><div class="tags"><span>single-cell</span><span>spatial</span><span>trajectory</span></div></div>
+      <div class="card"><img src="/media/research-ai.svg"/><h3>AI for Precision Medicine</h3><p>Interpretable models for diagnosis, prognosis and treatment response prediction.</p><div class="tags"><span>AI</span><span>clinical</span><span>prediction</span></div></div>
+      <div class="card"><img src="/media/research-network.svg"/><h3>Multi-omics Integration</h3><p>Integrated transcriptome/epigenome/proteome analysis for mechanism discovery.</p><div class="tags"><span>network</span><span>multi-omics</span><span>mechanism</span></div></div>
+    </div>
+  </section>
+
+  <section class="wrap metrics">
+    <h2>At a Glance</h2>
+    <p class="sub">Data-rich, method-driven, clinically oriented</p>
+    <div class="grid">
+      <div class="card"><div class="value">Single-cell + Spatial</div><div class="label">Core data modalities</div></div>
+      <div class="card"><div class="value">AI + Statistics</div><div class="label">Methodological engine</div></div>
+      <div class="card"><div class="value">Bench to Bedside</div><div class="label">Translational focus</div></div>
+    </div>
+  </section>
+</body>
+</html>

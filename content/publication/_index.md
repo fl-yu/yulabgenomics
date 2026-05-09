@@ -15,13 +15,13 @@ type: "widget_page"  # Page type is a Widget Page
 [*Dissecting sequence determinants of DNA methylation and in silico perturbation.*](https://www.biorxiv.org/content/10.1101/2025.11.20.689274v1)  
 <ins>Chen, F.#</ins>, <ins>Zhang, Q.</ins>#, <ins>Zhu, S.</ins>#, Liang, J.#, <ins>Zhong, S.</ins>, <ins>Zhang, Z.</ins>, Su, J., Guo, Y.\*, Fan, X.\*, Zhang, Y.\*, **<ins>Yu, F.</ins>\***.
 
-[*CAPTAIN: A multimodal foundation model pretrained on co-assayed single-cell RNA and protein.*](https://www.biorxiv.org/content/10.1101/2025.07.07.663366v1)  
-Ji, B.#, <ins>Hu, T.</ins>#, <ins>Wang, J.</ins>#, <ins>Liu, M.</ins>, Xu, L., <ins>Zhang, Q.</ins>, <ins>Zhong, S.</ins>, <ins>Qiao, L.</ins>, Zhang, Y.\*, Peng, S.\*, **<ins>Yu, F.</ins>\***.
-
 [*Disentangled multimodal evolutionary representations for cross-virus predictive modeling of antigenic change.*](https://www.biorxiv.org/content/10.64898/2026.02.12.705501v1)  
 <ins>Zhang, Z.</ins>#, <ins>Lin, Y.</ins>#, <ins>Zhong, S.</ins>, Zhou, P., Li, Y. & **<ins>Yu, F.\***.
 
 ##### 2026
+[*CAPTAIN: A multimodal foundation model pretrained on co-assayed single-cell RNA and protein.*](https://www.nature.com/articles/s41467-026-72882-y)  
+Ji, B.#, <ins>Hu, T.</ins>#, <ins>Wang, J.</ins>#, <ins>Liu, M.</ins>, Xu, L., <ins>Zhang, Q.</ins>, <ins>Zhong, S.</ins>, <ins>Qiao, L.</ins>, Zhang, Y.\*, Peng, S.\*, **<ins>Yu, F.</ins>\***.  ***Nature Communications*** 
+
 [*Explainable AI multiomics analysis reveals shared and divergent host responses in COVID-19 and influenza.*](https://www.nature.com/articles/s41746-025-02291-w)  
 Zhang, Y., Zhang, L., <ins>Zhang, Z.</ins>, <ins>Lin, Y.</ins>, <ins>Jiang, Z.</ins>, **<ins>Yu, F.</ins>\***.  ***npj Digital Medicine*** 
 

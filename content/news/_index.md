@@ -16,6 +16,9 @@ Our team spent a relaxing afternoon on Seagull Island for our lab retreat, with 
 ![cc](20251111-5.jpg) 
 ![cc](20251111-6.png) 
 
+### 02/21/2026 
+Our CAPTAIN paper has been published in *Nature Communications*, congrats to Tingting and Jiawen.
+
 ### 20/10/2025 
 Several lab members attended The Chinese Society of Genetics National Conference 2025, held in Hefei, China.  
 ![cc](20251020-1.jpg) 

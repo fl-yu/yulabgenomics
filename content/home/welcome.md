@@ -1,22 +1,22 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
+widget: hero
+headless: true
+weight: 10
 title: |
-  Computational Genomics Group
+  Integrative Computational Genomics
 hero_media: welcome4.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
-  # Add custom styles
-  css_style:
-  css_class:
+  css_class: hero-modern
 ---
 
-<!-- <br> -->
+We combine **single-cell**, **spatial omics**, and **machine learning** to decode disease mechanisms and accelerate precision medicine.
 
-The Yu lab combines single cell technologies, genomic datasets and machine learning algorithms to address fundamental questions in biomedical science.
+我们结合**单细胞组学**、**空间组学**与**机器学习**，解析疾病机制并推动精准医学转化。
+
+**Research focus**
+- Computational models for cell-state dynamics
+- AI-driven biomarker and prognosis discovery
+- Interpretable multi-omics integration for translational medicine
+
+{{% cta cta_link="./research/" cta_text="Explore Research →" %}}

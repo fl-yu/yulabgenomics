@@ -24,13 +24,13 @@ design:
 ---
 
 ### 02/21/2026 
+Our CAPTAIN paper has been published in *Nature Communications*, congrats to Tingting and Jiawen.
+
+### 02/21/2026 
 We are delighted to share that our recent work has been published in *npj Digital Medicine*, *BMC Medicine*, and *BIBM*.
 
 ### 11/11/2025 
 Lab BBQ!
-
-### 20/10/2025 
-Several lab members attended The Chinese Society of Genetics National Conference 2025, held in Hefei, China.  
 
 
 <!-- ### 08/15/2024 
