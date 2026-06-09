@@ -1,0 +1,5 @@
+# github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.0
+# github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.0
+# github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.0
+# github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core v0.1.0
+# github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo v0.1.0

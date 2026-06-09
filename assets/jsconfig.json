@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../../../tmp/wowchemy-local-v570/modules/wowchemy/assets/*"
+   ]
+  }
+ }
+}
