@@ -4,7 +4,18 @@ summary: "Hello!"  # Add a page description.
 date: "2022-12-09T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
-### 02/21/2026 
+
+### 8/27/2026 
+We held a farewell gathering for Yuxi and wish them all the best in their next chapter!
+![cc](20260827-1.jpg)
+
+### 6/25/2026 
+Congratulations to Siyu on being awarded the China Postdoctoral Science Foundation General Grant!
+
+### 5/9/2026 
+Our CAPTAIN paper has been published in *Nature Communications*, congrats to Tingting and Jiawen.
+
+### 2/21/2026 
 We are delighted to share that our recent work has been published in *npj Digital Medicine*, *BMC Medicine*, and *BIBM*.
 
 ### 11/11/2025 
@@ -16,8 +27,10 @@ Our team spent a relaxing afternoon on Seagull Island for our lab retreat, with 
 ![cc](20251111-5.jpg) 
 ![cc](20251111-6.png) 
 
-### 02/21/2026 
-Our CAPTAIN paper has been published in *Nature Communications*, congrats to Tingting and Jiawen.
+
+### 20/10/2025 
+Several lab members attended The Chinese Society of Genetics National Conference 2025, held in Hefei, China.  
+![cc](20251020-1.jpg)
 
 ### 20/10/2025 
 Several lab members attended The Chinese Society of Genetics National Conference 2025, held in Hefei, China.  
