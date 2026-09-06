@@ -39,6 +39,13 @@ type: "widget_page"  # Page type is a Widget Page
       <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Ph.D. Student at South China Agricultural University</td>
     </tr>
 
+   <tr>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Yuxi Lin</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">2025-2026</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Research Assistant</td>
+      <td style="border: 0.5px solid #ddd; padding: 20px 30px 20px 30px; font-family: 'Open Sans', sans-serif; white-space: nowrap;">Ph.D. Student at Sun Yat-sen University</td>
+    </tr>
+
   </tbody>
 </table>
 
