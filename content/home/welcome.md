@@ -1,22 +1,78 @@
 ---
+title: ""
 widget: hero
-headless: true
 weight: 10
-title: |
-  Integrative Computational Genomics
-hero_media: welcome4.jpg
-design:
-  columns: '2'
-  css_class: hero-modern
+css_class: home-hero
 ---
+<figure class="welcome-image-hero">
+<img
+  class="welcome-image-hero__media"
+  src="/media/home-hero/hero-user-source.png"
+  alt="Integrative Computational Genomics hero artwork"
+  loading="eager"
+  decoding="async"
+>
+</figure>
 
-We combine **single-cell**, **spatial omics**, and **machine learning** to decode disease mechanisms and accelerate precision medicine.
+<div class="research-core">
+<div class="research-core__heading">
+<h2>Research focus</h2>
+<span class="research-core__rule" aria-hidden="true"></span>
+</div>
 
-我们结合**单细胞组学**、**空间组学**与**机器学习**，解析疾病机制并推动精准医学转化。
+<div class="research-core__grid">
+<article class="research-core__item">
+<div class="research-core__icon-wrap">
+<img
+  class="research-core__icon"
+  src="/media/research-core/icon-dynamics.png"
+  alt="Icon for computational models"
+  loading="lazy"
+  decoding="async"
+>
+</div>
+<div class="research-core__body">
+<h3>Computational models for cell-state dynamics</h3>
+<p>Reconstruct and predict cellular trajectories and state transitions.</p>
+</div>
+</article>
 
-**Research focus**
-- Computational models for cell-state dynamics
-- AI-driven biomarker and prognosis discovery
-- Interpretable multi-omics integration for translational medicine
+<article class="research-core__item">
+<div class="research-core__icon-wrap">
+<img
+  class="research-core__icon"
+  src="/media/research-core/icon-biomarker.png"
+  alt="Icon for AI-driven biomarker discovery"
+  loading="lazy"
+  decoding="async"
+>
+</div>
+<div class="research-core__body">
+<h3>AI-driven biomarker and prognosis discovery</h3>
+<p>Identify robust biomarkers and build predictive models for patient outcomes.</p>
+</div>
+</article>
 
-{{% cta cta_link="./research/" cta_text="Explore Research →" %}}
+<article class="research-core__item">
+<div class="research-core__icon-wrap">
+<img
+  class="research-core__icon"
+  src="/media/research-core/icon-integration.png"
+  alt="Icon for multi-omics integration"
+  loading="lazy"
+  decoding="async"
+>
+</div>
+<div class="research-core__body">
+<h3>Interpretable multi-omics integration for translational medicine</h3>
+<p>Integrate heterogeneous omics data with biological interpretability and clinical relevance.</p>
+</div>
+</article>
+</div>
+
+<div class="research-core__actions">
+<div class="research-core__action">
+<a class="btn btn-primary px-3 py-3" href="/research/">Explore Research →</a>
+</div>
+</div>
+</div>
