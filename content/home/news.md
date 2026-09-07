@@ -2,9 +2,15 @@
 title: Latest News
 weight: 50
 ---
-### 02/21/2026
+### 8/27/2026 
+We held a farewell gathering for Yuxi and wish them all the best in their next chapter!
+![cc](20260827-1.jpg)
 
-Our CAPTAIN paper has been published in Nature Communications, congrats to Tingting and Jiawen.
+### 6/25/2026 
+Congratulations to Siyu on being awarded the China Postdoctoral Science Foundation General Grant!
+
+### 5/9/2026 
+Our CAPTAIN paper has been published in *Nature Communications*, congrats to Tingting and Jiawen.
 
 ### 02/21/2026
 
